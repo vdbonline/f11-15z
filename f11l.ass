@@ -1,0 +1,468 @@
+﻿[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Export Encoding: UTF-8
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: fonte legenda,Tahoma,30,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: legenda para abertura e encerramento,@GungsuhChe,30,&H0000C6FF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: legenda para anuncio de episódio e creditos,Brush Script Std,35,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: LEGENDA PARA PODERES,AR JULIAN,35,&H00F0E7BE,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: anuncio dos locais,Tekton Pro Ext,35,&H00D0FAD0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: musica no video,@Kozuka Gothic Pro H,35,&H00D0FAD0,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:56.45,0:01:00.09,fonte legenda,,0000,0000,0000,,Eles parecem bem fortes. Muito bem, Dr. Kori.
+Dialogue: 0,0:01:00.09,0:01:03.39,fonte legenda,,0000,0000,0000,,Tem muito dinheiro?\NPode usar como "banho quente".
+Dialogue: 0,0:01:03.39,0:01:05.73,fonte legenda,,0000,0000,0000,,Muito Obrigado, Barão.
+Dialogue: 0,0:01:05.73,0:01:08.06,fonte legenda,,0000,0000,0000,,Não é "banho quente", é "água quente".
+Dialogue: 0,0:01:08.06,0:01:11.40,fonte legenda,,0000,0000,0000,,Ele pode ter muito dinheiro,\Nmas ainda não tem cérebro.
+Dialogue: 0,0:01:13.74,0:01:16.90,fonte legenda,,0000,0000,0000,,Agora poderei dar ao Satan o que ele merece!
+Dialogue: 0,0:01:27.55,0:01:34.93,legenda para anuncio de episódio e creditos,,0000,0000,0000,,O COMBATE FINAL\N"LEGENDAS: MAZZOCATO"\N"EDIÇÃO: HUGOKAMUS"
+Dialogue: 0,0:01:55.78,0:02:00.55,legenda para abertura e encerramento,,0000,0000,0000,,Coisas sem sentido acontecem
+Dialogue: 0,0:02:01.38,0:02:06.12,legenda para abertura e encerramento,,0000,0000,0000,,Não é hora de chorar
+Dialogue: 0,0:02:07.06,0:02:12.59,legenda para abertura e encerramento,,0000,0000,0000,,Vou aumentar o meu nervosismo em cem vezes
+Dialogue: 0,0:02:13.06,0:02:16.93,legenda para abertura e encerramento,,0000,0000,0000,,Vou ser o líder da festa
+Dialogue: 0,0:02:18.73,0:02:24.41,legenda para abertura e encerramento,,0000,0000,0000,,As coisas que podem fazê-lo delirar
+Dialogue: 0,0:02:24.41,0:02:30.08,legenda para abertura e encerramento,,0000,0000,0000,,Um dia vão transformá-lo em um cara incrível
+Dialogue: 0,0:02:30.08,0:02:32.75,legenda para abertura e encerramento,,0000,0000,0000,,NO-TEN P-KAN
+Dialogue: 0,0:02:32.75,0:02:35.75,legenda para abertura e encerramento,,0000,0000,0000,,O céu está limpo
+Dialogue: 0,0:02:35.75,0:02:38.42,legenda para abertura e encerramento,,0000,0000,0000,,IPPAI OPPAI
+Dialogue: 0,0:02:38.42,0:02:41.09,legenda para abertura e encerramento,,0000,0000,0000,,Eu estou bem
+Dialogue: 0,0:02:41.09,0:02:44.09,legenda para abertura e encerramento,,0000,0000,0000,,Brincar com confusão
+Dialogue: 0,0:02:44.09,0:02:47.10,legenda para abertura e encerramento,,0000,0000,0000,,Garoto desobediente
+Dialogue: 0,0:02:47.10,0:02:49.77,legenda para abertura e encerramento,,0000,0000,0000,,We Gotta Power!
+Dialogue: 0,0:02:49.77,0:02:54.26,legenda para abertura e encerramento,,0000,0000,0000,,Dragon Ball Z!
+Dialogue: 0,0:02:55.44,0:02:58.44,legenda para abertura e encerramento,,0000,0000,0000,,NO-TEN P-KAN
+Dialogue: 0,0:02:58.44,0:03:01.04,legenda para abertura e encerramento,,0000,0000,0000,,Minha cabeça está vazia
+Dialogue: 0,0:03:01.04,0:03:04.05,legenda para abertura e encerramento,,0000,0000,0000,,RA-MEN ROPPAI
+Dialogue: 0,0:03:04.05,0:03:06.38,legenda para abertura e encerramento,,0000,0000,0000,,Minha mãe não liga
+Dialogue: 0,0:03:06.38,0:03:09.72,legenda para abertura e encerramento,,0000,0000,0000,,É o fim do século, vamos nos animar
+Dialogue: 0,0:03:09.72,0:03:12.72,legenda para abertura e encerramento,,0000,0000,0000,,Garota travessa
+Dialogue: 0,0:03:12.72,0:03:15.39,legenda para abertura e encerramento,,0000,0000,0000,,We Gotta Power!
+Dialogue: 0,0:03:15.39,0:03:21.56,legenda para abertura e encerramento,,0000,0000,0000,,Dragon Ball Z!
+Dialogue: 0,0:03:40.92,0:03:45.59,fonte legenda,,0000,0000,0000,,Espero que a No. 18 não\Nesteja fazendo nada problemático.
+Dialogue: 0,0:03:45.59,0:03:49.93,fonte legenda,,0000,0000,0000,,Kuririn-san, assim que a No. 18-san\Nconseguir a grana do Satan-san,
+Dialogue: 0,0:03:49.93,0:03:52.60,fonte legenda,,0000,0000,0000,,você vai nos dar o que quisermos comer, certo?
+Dialogue: 0,0:03:52.60,0:03:55.60,fonte legenda,,0000,0000,0000,,Sim. Podem comer até explodirem.
+Dialogue: 0,0:03:55.60,0:03:58.36,fonte legenda,,0000,0000,0000,,Podem deixar que cuido disso.
+Dialogue: 0,0:03:59.94,0:04:04.21,fonte legenda,,0000,0000,0000,,Se estiver mentindo,\Neu vou raspar sua cabeça, Kuririn-san.
+Dialogue: 0,0:04:04.21,0:04:05.37,fonte legenda,,0000,0000,0000,,N-N-Não seja ridículo!
+Dialogue: 0,0:04:05.37,0:04:08.14,fonte legenda,,0000,0000,0000,,Demorou muito tempo\Npara o cabelo crescer desse jeito!
+Dialogue: 0,0:04:11.21,0:04:14.74,fonte legenda,,0000,0000,0000,,Papai... Vroom-vroom!
+Dialogue: 0,0:04:40.91,0:04:42.40,fonte legenda,,0000,0000,0000,,E-Espere!
+Dialogue: 0,0:04:46.92,0:04:48.68,fonte legenda,,0000,0000,0000,,Q-Quem será ele?
+Dialogue: 0,0:04:52.00,0:04:56.41,fonte legenda,,0000,0000,0000,,Ei, velho, já chega disso.
+Dialogue: 0,0:04:56.41,0:04:58.44,fonte legenda,,0000,0000,0000,,Os 20 milhões de zeni que você me prometeu
+Dialogue: 0,0:04:58.44,0:05:02.01,fonte legenda,,0000,0000,0000,,no Tenkaichi Budokai por deixar você vencer...
+Dialogue: 0,0:05:02.01,0:05:06.21,fonte legenda,,0000,0000,0000,,Estou dizendo\Npara se apressar e me pagar tudo.
+Dialogue: 0,0:05:07.29,0:05:12.16,fonte legenda,,0000,0000,0000,,V-Veja bem,\Neu ainda não recebi o dinheiro do prêmio...
+Dialogue: 0,0:05:12.96,0:05:15.52,fonte legenda,,0000,0000,0000,,Parece que você quer sofrer.
+Dialogue: 0,0:05:18.63,0:05:21.97,fonte legenda,,0000,0000,0000,,Eu lhe pagarei!\NSe você puder esperar só mais um pouco...
+Dialogue: 0,0:05:21.97,0:05:23.46,fonte legenda,,0000,0000,0000,,Estou ocupado!
+Dialogue: 0,0:05:24.97,0:05:27.31,fonte legenda,,0000,0000,0000,,Você marcou uma hora com minha secretária?
+Dialogue: 0,0:05:27.31,0:05:29.54,fonte legenda,,0000,0000,0000,,Se quer um autógrafo, darei depois.
+Dialogue: 0,0:05:29.54,0:05:31.53,fonte legenda,,0000,0000,0000,,Nesse momento, estou no meio de algo.
+Dialogue: 0,0:05:32.31,0:05:35.94,fonte legenda,,0000,0000,0000,,Eu te trouxe um desafio de meu primo.
+Dialogue: 0,0:05:37.32,0:05:40.49,fonte legenda,,0000,0000,0000,,Um desafio? Fale isso para minha secretária.
+Dialogue: 0,0:05:40.49,0:05:45.69,fonte legenda,,0000,0000,0000,,Recebo centenas desses todos os dias.
+Dialogue: 0,0:05:47.66,0:05:50.70,fonte legenda,,0000,0000,0000,,Para alguém que\Nmolhava a cama até a 6ª série,
+Dialogue: 0,0:05:50.70,0:05:52.67,fonte legenda,,0000,0000,0000,,você tem muita coragem, não tem?
+Dialogue: 0,0:05:52.67,0:05:54.67,fonte legenda,,0000,0000,0000,,Molhava a cama!? Quem te disse!?
+Dialogue: 0,0:05:54.67,0:05:56.00,fonte legenda,,0000,0000,0000,,Meu primo.
+Dialogue: 0,0:05:56.00,0:05:59.67,fonte legenda,,0000,0000,0000,,O único que sabe sobre isso...\Nnão me diga que é o Jaga!
+Dialogue: 0,0:05:59.67,0:06:04.28,fonte legenda,,0000,0000,0000,,Isso mesmo, Jaga Butta.\NNão pode dizer que não o conhece.
+Dialogue: 0,0:06:04.28,0:06:07.28,fonte legenda,,0000,0000,0000,,Ele sabe tudo sobre você.
+Dialogue: 0,0:06:07.28,0:06:09.18,fonte legenda,,0000,0000,0000,,Sim, éramos amigos desde a infância.
+Dialogue: 0,0:06:09.18,0:06:12.29,fonte legenda,,0000,0000,0000,,Treinamos juntos arduamente porque\Nqueríamos ser os melhores lutadores.
+Dialogue: 0,0:06:12.29,0:06:14.29,fonte legenda,,0000,0000,0000,,Vocês eram rivais, não eram?
+Dialogue: 0,0:06:14.29,0:06:19.29,fonte legenda,,0000,0000,0000,,Sim. Mas comparado com o ultra-prodígio\Nque eu era, Jaga era lamentável.
+Dialogue: 0,0:06:19.29,0:06:23.10,fonte legenda,,0000,0000,0000,,Então, na 6ª série,\Nele foi derrotado por mim,
+Dialogue: 0,0:06:23.10,0:06:25.63,fonte legenda,,0000,0000,0000,,e desistiu do sonho\Nde se tornar o maior lutador.
+Dialogue: 0,0:06:25.63,0:06:28.03,fonte legenda,,0000,0000,0000,,Eu sempre tenho que fazer isso.
+Dialogue: 0,0:06:28.97,0:06:31.80,fonte legenda,,0000,0000,0000,,Não tenho tempo para lutar com Jaga agora.
+Dialogue: 0,0:06:31.80,0:06:36.97,fonte legenda,,0000,0000,0000,,Estou ocupado. Vamos. Caia fora. Caia fora.
+Dialogue: 0,0:06:37.98,0:06:41.65,fonte legenda,,0000,0000,0000,,Jaga queria que te dissesse uma coisa.
+Dialogue: 0,0:06:41.65,0:06:44.25,fonte legenda,,0000,0000,0000,,Se você se negar a lutar contra o meu primo,
+Dialogue: 0,0:06:44.25,0:06:47.32,fonte legenda,,0000,0000,0000,,então ele ficará com\No cinturão do campeonato mundial,
+Dialogue: 0,0:06:47.32,0:06:49.66,fonte legenda,,0000,0000,0000,,e vai contar o que aconteceu\Nquando estavam na 6ª série...
+Dialogue: 0,0:06:49.66,0:06:53.66,fonte legenda,,0000,0000,0000,,Cala boca! Foi só uma vez\Nquando fui para o acampamento de verão!
+Dialogue: 0,0:06:53.66,0:06:56.33,fonte legenda,,0000,0000,0000,,Uma vez, duas vezes, é a mesma coisa.
+Dialogue: 0,0:06:56.33,0:07:00.60,fonte legenda,,0000,0000,0000,,Ei! Eu estava aqui\Nprimeiro, seus idiotas sem educação!
+Dialogue: 0,0:07:00.60,0:07:03.36,fonte legenda,,0000,0000,0000,,Tome conta disso\Ndepois que terminarmos de conversar.
+Dialogue: 0,0:07:04.60,0:07:06.44,fonte legenda,,0000,0000,0000,,Se não lutar, contaremos à Imprensa que,
+Dialogue: 0,0:07:06.44,0:07:08.27,fonte legenda,,0000,0000,0000,,até a 6ª série, você ainda...
+Dialogue: 0,0:07:08.27,0:07:11.28,fonte legenda,,0000,0000,0000,,Está bem!\NSó tenho que lutar com o Jaga, certo?
+Dialogue: 0,0:07:11.28,0:07:14.95,fonte legenda,,0000,0000,0000,,Não, você lutará com os\NBioguerreiros que o Jaga desenvolveu.
+Dialogue: 0,0:07:14.95,0:07:16.78,fonte legenda,,0000,0000,0000,,Bioguerreiros!?
+Dialogue: 0,0:07:18.62,0:07:22.29,fonte legenda,,0000,0000,0000,,Ei, Trunks, vamos\Ntrocar. Deixe-me ver, também!
+Dialogue: 0,0:07:22.96,0:07:25.02,fonte legenda,,0000,0000,0000,,N-Não me diga que, entre eles,
+Dialogue: 0,0:07:25.02,0:07:28.63,fonte legenda,,0000,0000,0000,,existe alguém que se enfurece\Ncom tudo e cujo cabelo fica dourado. Existe?
+Dialogue: 0,0:07:28.63,0:07:30.30,fonte legenda,,0000,0000,0000,,Claro que não. Está maluco?
+Dialogue: 0,0:07:30.30,0:07:33.17,fonte legenda,,0000,0000,0000,,Tudo bem, então.\NDerrotarei qualquer um facilmente,
+Dialogue: 0,0:07:33.17,0:07:35.64,fonte legenda,,0000,0000,0000,,e voltarei logo,\Nentão espere um minuto por mim.
+Dialogue: 0,0:07:35.64,0:07:38.64,fonte legenda,,0000,0000,0000,,Não vou cair nessa.
+Dialogue: 0,0:07:38.64,0:07:42.80,fonte legenda,,0000,0000,0000,,Você está planejando fugir\Nde mim, não é? Você atua muito mal.
+Dialogue: 0,0:07:43.98,0:07:46.10,fonte legenda,,0000,0000,0000,,Eu vou com você!
+Dialogue: 0,0:07:48.31,0:07:51.32,fonte legenda,,0000,0000,0000,,É isso que está acontecendo.\NPode voltar para a casa do Kame.
+Dialogue: 0,0:07:51.32,0:07:53.32,fonte legenda,,0000,0000,0000,,Eu vou com você.
+Dialogue: 0,0:07:53.32,0:07:55.99,fonte legenda,,0000,0000,0000,,Você tem que cuidar da nossa garotinha.
+Dialogue: 0,0:07:55.99,0:07:58.29,fonte legenda,,0000,0000,0000,,Mas, No. 18...
+Dialogue: 0,0:07:59.33,0:08:02.26,fonte legenda,,0000,0000,0000,,Você não vai fazer o que estou dizendo?
+Dialogue: 0,0:08:02.26,0:08:05.09,fonte legenda,,0000,0000,0000,,Ok, então. Vou ficar em casa.
+Dialogue: 0,0:08:10.94,0:08:14.20,fonte legenda,,0000,0000,0000,,Tome cuidado! Venha para casa logo!
+Dialogue: 0,0:08:24.28,0:08:29.62,fonte legenda,,0000,0000,0000,,Ah, aqueles garotos...\NDroga, é bom ser solteiro, hein?
+Dialogue: 0,0:08:29.62,0:08:32.39,fonte legenda,,0000,0000,0000,,Papai, ir... banheiro!
+Dialogue: 0,0:08:34.96,0:08:38.63,fonte legenda,,0000,0000,0000,,N-Não faz aqui! Espera! Espera!\NEspera! Banheiro! Banheiro!
+Dialogue: 0,0:08:38.63,0:08:41.40,fonte legenda,,0000,0000,0000,,Aah, me molhou inteiro...
+Dialogue: 0,0:10:13.99,0:10:16.66,fonte legenda,,0000,0000,0000,,Parece não haver ninguém tão forte aqui.
+Dialogue: 0,0:10:16.66,0:10:21.67,fonte legenda,,0000,0000,0000,,Eu sou o campeão\Nmundial, o famoso Mister Satan!
+Dialogue: 0,0:10:21.67,0:10:26.34,fonte legenda,,0000,0000,0000,,Muito bem!\NApesar de o sol estar brilhando demais...
+Dialogue: 0,0:10:26.34,0:10:28.83,fonte legenda,,0000,0000,0000,,Já faz muito tempo, hein, Satan?
+Dialogue: 0,0:10:34.01,0:10:37.47,fonte legenda,,0000,0000,0000,,Bem-vindo ao castelo May Queene.
+Dialogue: 0,0:10:39.69,0:10:42.15,fonte legenda,,0000,0000,0000,,Menmen, bom trabalho.
+Dialogue: 0,0:10:42.69,0:10:45.35,fonte legenda,,0000,0000,0000,,Barão Jaga Butta!
+Dialogue: 0,0:10:55.70,0:10:58.70,fonte legenda,,0000,0000,0000,,V-Você é ele?\NVocê não é exatamente como me lembrava.
+Dialogue: 0,0:10:58.70,0:11:01.87,fonte legenda,,0000,0000,0000,,Aparentemente,\Nvocê sucedeu seu pai e se tornou um barão,
+Dialogue: 0,0:11:01.87,0:11:04.31,fonte legenda,,0000,0000,0000,,mas por que está\Ncom esse corpo pequeno e gordo?
+Dialogue: 0,0:11:04.31,0:11:06.65,fonte legenda,,0000,0000,0000,,Treinar! Treine um pouco!
+Dialogue: 0,0:11:06.65,0:11:08.98,fonte legenda,,0000,0000,0000,,Quem é essa senhorita?
+Dialogue: 0,0:11:10.65,0:11:12.99,fonte legenda,,0000,0000,0000,,Ela é minha discípula número um.
+Dialogue: 0,0:11:12.99,0:11:15.18,fonte legenda,,0000,0000,0000,,Discípula número um, eu?
+Dialogue: 0,0:11:26.33,0:11:29.53,fonte legenda,,0000,0000,0000,,Para com isso, Goten! Isso faz cócegas!
+Dialogue: 0,0:11:37.68,0:11:40.35,fonte legenda,,0000,0000,0000,,G-Goten, eu não gosto desse bicho!
+Dialogue: 0,0:11:40.35,0:11:42.75,fonte legenda,,0000,0000,0000,,Você é bonitinho, não é?
+Dialogue: 0,0:11:43.68,0:11:47.55,fonte legenda,,0000,0000,0000,,Assim, assim, assim.\NVai para algum outro lugar, ok?
+Dialogue: 0,0:11:48.35,0:11:51.15,fonte legenda,,0000,0000,0000,,Ser criado na Montanha Paozu...\NAcho que ele está acostumado.
+Dialogue: 0,0:11:52.36,0:11:56.70,fonte legenda,,0000,0000,0000,,Se você não estivesse\Npor perto, eu seria o campeão mundial!
+Dialogue: 0,0:11:56.70,0:11:58.03,fonte legenda,,0000,0000,0000,,Isso mesmo.
+Dialogue: 0,0:11:58.03,0:12:03.74,fonte legenda,,0000,0000,0000,,Jaga viveu até hoje\Ncom a intenção de te fazer pagar.
+Dialogue: 0,0:12:03.74,0:12:05.30,fonte legenda,,0000,0000,0000,,Você vai se desculpar?
+Dialogue: 0,0:12:05.30,0:12:07.97,fonte legenda,,0000,0000,0000,,Está tão obsessivo como sempre.
+Dialogue: 0,0:12:07.97,0:12:09.81,fonte legenda,,0000,0000,0000,,Quando perdeu pra mim na infância,
+Dialogue: 0,0:12:09.81,0:12:13.31,fonte legenda,,0000,0000,0000,,você me seguiu até o\Nbanheiro, chorando o tempo todo.
+Dialogue: 0,0:12:13.31,0:12:16.85,fonte legenda,,0000,0000,0000,,Ha! É tudo passado! Com todo\Nesse dinheiro sem fim que tenho,
+Dialogue: 0,0:12:16.85,0:12:19.99,fonte legenda,,0000,0000,0000,,Eu contratei os\Nmaiores experts em biotecnologia,
+Dialogue: 0,0:12:19.99,0:12:22.59,fonte legenda,,0000,0000,0000,,e os fiz criarem esses Bioguerreiros!
+Dialogue: 0,0:12:22.59,0:12:23.82,fonte legenda,,0000,0000,0000,,Você vai lutar contra esses guerreiros,
+Dialogue: 0,0:12:23.82,0:12:26.59,fonte legenda,,0000,0000,0000,,de quem sinto orgulho, na minha Arena de Batalha!
+Dialogue: 0,0:12:26.99,0:12:30.33,fonte legenda,,0000,0000,0000,,Isso será um desperdício do seu esforço.
+Dialogue: 0,0:12:30.33,0:12:32.67,fonte legenda,,0000,0000,0000,,Goten, isso está ficando interessante, hein?
+Dialogue: 0,0:12:32.67,0:12:33.67,fonte legenda,,0000,0000,0000,,Uhum.
+Dialogue: 0,0:12:33.67,0:12:37.00,fonte legenda,,0000,0000,0000,,Trunks-kun, o que é um Bioguerreiro?
+Dialogue: 0,0:12:37.00,0:12:41.01,fonte legenda,,0000,0000,0000,,É um guerreiro que foi\Ncriado com biotecnologia, entende?
+Dialogue: 0,0:12:41.01,0:12:43.68,fonte legenda,,0000,0000,0000,,O que é biotecnologia?
+Dialogue: 0,0:12:43.68,0:12:48.18,fonte legenda,,0000,0000,0000,,Você não sabe de nada, sabe? \NÉ uma engenharia genética.
+Dialogue: 0,0:12:48.18,0:12:52.35,fonte legenda,,0000,0000,0000,,Eles podem até criar novos\Nseres a partir de células que já existem
+Dialogue: 0,0:12:52.35,0:12:55.35,fonte legenda,,0000,0000,0000,,Trunks-kun, você é incrível!
+Dialogue: 0,0:12:55.35,0:12:57.39,fonte legenda,,0000,0000,0000,,Tanto a mamãe quanto\No vovô são cientistas, afinal,
+Dialogue: 0,0:12:57.39,0:12:59.79,fonte legenda,,0000,0000,0000,,então esse tipo de coisa\Né conhecimento geral para mim.
+Dialogue: 0,0:13:04.63,0:13:07.60,fonte legenda,,0000,0000,0000,,Então, o que é engenharia genética?
+Dialogue: 0,0:13:11.97,0:13:13.31,fonte legenda,,0000,0000,0000,,Então?
+Dialogue: 0,0:13:13.31,0:13:15.74,fonte legenda,,0000,0000,0000,,A engenharia genética é...
+Dialogue: 0,0:13:18.64,0:13:23.32,fonte legenda,,0000,0000,0000,,Que bobo! É obviamente biotecnologia, entende?
+Dialogue: 0,0:13:23.32,0:13:25.28,fonte legenda,,0000,0000,0000,,Ah, então é isso.
+Dialogue: 0,0:13:26.65,0:13:28.68,fonte legenda,,0000,0000,0000,,Tudo bem!
+Dialogue: 0,0:13:44.34,0:13:47.17,fonte legenda,,0000,0000,0000,,Ee-yow!
+Dialogue: 0,0:14:05.96,0:14:08.45,fonte legenda,,0000,0000,0000,,Satan, essa é a Arena de Batalha!
+Dialogue: 0,0:14:09.96,0:14:12.97,fonte legenda,,0000,0000,0000,,Por que não há espectadores?
+Dialogue: 0,0:14:12.97,0:14:15.30,fonte legenda,,0000,0000,0000,,Também não têm câmeras de TV, têm?
+Dialogue: 0,0:14:15.30,0:14:19.63,fonte legenda,,0000,0000,0000,,É rude tratar eu,\No campeão mundial, desse jeito, não acha?
+Dialogue: 0,0:14:21.31,0:14:23.64,fonte legenda,,0000,0000,0000,,Seu grande convencido. Menmen?
+Dialogue: 0,0:14:23.64,0:14:25.31,fonte legenda,,0000,0000,0000,,Sim?
+Dialogue: 0,0:14:25.31,0:14:27.80,fonte legenda,,0000,0000,0000,,Aqui está a câmera que pediu.
+Dialogue: 0,0:14:37.99,0:14:41.33,fonte legenda,,0000,0000,0000,,Incrível!\NEu gostaria de lutar num lugar assim!
+Dialogue: 0,0:14:41.33,0:14:45.16,fonte legenda,,0000,0000,0000,,Ele é rico, afinal de contas. Não é?
+Dialogue: 0,0:14:46.00,0:14:48.87,fonte legenda,,0000,0000,0000,,Trunks-kun, aquele homem...
+Dialogue: 0,0:14:50.67,0:14:53.40,fonte legenda,,0000,0000,0000,,Atrás daquele Baron não-sei-o-quê...
+Dialogue: 0,0:14:58.68,0:15:01.65,fonte legenda,,0000,0000,0000,,É o sacerdote de\Nquando estávamos na vila Natade!
+Dialogue: 0,0:15:03.62,0:15:06.14,fonte legenda,,0000,0000,0000,,O que ele está fazendo aqui?
+Dialogue: 0,0:15:06.95,0:15:11.25,fonte legenda,,0000,0000,0000,,Bem, vamos nos\Napressar e começar. Estou ocupado.
+Dialogue: 0,0:15:32.31,0:15:37.08,fonte legenda,,0000,0000,0000,,N-No. 18!\NGostaria de lutar com eles um pouco?
+Dialogue: 0,0:15:37.98,0:15:42.32,fonte legenda,,0000,0000,0000,,Só se me pagar mais 20 milhões de zeni.
+Dialogue: 0,0:15:42.32,0:15:44.32,fonte legenda,,0000,0000,0000,,C-Certo.
+Dialogue: 0,0:15:44.32,0:15:50.46,fonte legenda,,0000,0000,0000,,Ok, quem vem primeiro? Minha discípula\Nnúmero um, No. 18, enfrentará vocês.
+Dialogue: 0,0:15:51.00,0:15:53.97,fonte legenda,,0000,0000,0000,,Não tão rápido!\NEu decidirei a ordem das lutas!
+Dialogue: 0,0:16:05.28,0:16:08.58,fonte legenda,,0000,0000,0000,,Eu quero que lute o Satan, rápido!
+Dialogue: 0,0:16:08.58,0:16:12.28,fonte legenda,,0000,0000,0000,,Não vamos dificultar as coisas.\NVamos acertar isso numa luta múltipla.
+Dialogue: 0,0:16:12.28,0:16:16.02,fonte legenda,,0000,0000,0000,,Derrotarei todos vocês no lugar do Satan!
+Dialogue: 0,0:16:18.29,0:16:22.29,fonte legenda,,0000,0000,0000,,Nem pensar!\NIsso vai contra o espírito de luta!
+Dialogue: 0,0:16:22.29,0:16:25.30,fonte legenda,,0000,0000,0000,,Seu idiota.\NPara mim, esse é o espírito de luta.
+Dialogue: 0,0:16:25.30,0:16:27.03,fonte legenda,,0000,0000,0000,,Nós vamos lutar, também!
+Dialogue: 0,0:16:36.64,0:16:37.98,fonte legenda,,0000,0000,0000,,São...?
+Dialogue: 0,0:16:37.98,0:16:39.17,fonte legenda,,0000,0000,0000,,Quem são eles?
+Dialogue: 0,0:16:40.31,0:16:44.65,fonte legenda,,0000,0000,0000,,Velho Onjichama-onbachama,\Njá faz algum tempo.
+Dialogue: 0,0:16:44.65,0:16:45.98,fonte legenda,,0000,0000,0000,,Você os conhece?
+Dialogue: 0,0:16:45.98,0:16:47.82,fonte legenda,,0000,0000,0000,,S-Sim.
+Dialogue: 0,0:16:48.65,0:16:52.99,fonte legenda,,0000,0000,0000,,Garotos, essa não é a\Nseção infantil do Tenkaichi Budokai.
+Dialogue: 0,0:16:52.99,0:16:55.33,fonte legenda,,0000,0000,0000,,Vocês tem que ter 18 anos para entrar aqui.
+Dialogue: 0,0:16:55.33,0:17:00.00,fonte legenda,,0000,0000,0000,,Certo, certo. Esses\NBioguerreiros são muito fortes para vocês.
+Dialogue: 0,0:17:00.00,0:17:04.49,fonte legenda,,0000,0000,0000,,Queria que não nos subestimassem.\NPodemos fazer esse tipo de coisa...
+Dialogue: 0,0:17:15.61,0:17:18.45,fonte legenda,,0000,0000,0000,,Esses garotos\Nsão seus discípulos também, não é?
+Dialogue: 0,0:17:18.45,0:17:22.96,fonte legenda,,0000,0000,0000,,Estão usando truques baratos!\NNão podem enganar meus olhos!
+Dialogue: 0,0:17:22.96,0:17:23.79,fonte legenda,,0000,0000,0000,,Tudo bem, certo!
+Dialogue: 0,0:17:23.79,0:17:27.63,fonte legenda,,0000,0000,0000,,Bioguerreiros,\Nfaçam uma chalcina nesse lugar!
+Dialogue: 0,0:17:27.63,0:17:29.63,fonte legenda,,0000,0000,0000,,Uma chalcina?
+Dialogue: 0,0:17:29.63,0:17:31.96,fonte legenda,,0000,0000,0000,,Você quis dizer uma "chacina".
+Dialogue: 0,0:17:31.96,0:17:33.56,fonte legenda,,0000,0000,0000,,Dá na mesma!
+Dialogue: 0,0:17:42.31,0:17:44.64,fonte legenda,,0000,0000,0000,,Yow-ow-ow! Que nojo!
+Dialogue: 0,0:17:44.64,0:17:47.31,fonte legenda,,0000,0000,0000,,Que tipo de caras são esses?
+Dialogue: 0,0:17:47.31,0:17:50.28,fonte legenda,,0000,0000,0000,,Isso é ruim! Imagino se eles sabem...
+Dialogue: 0,0:18:02.59,0:18:05.23,fonte legenda,,0000,0000,0000,,Jaga, o que\Nacha da força dos meus discípulos?
+Dialogue: 0,0:18:05.23,0:18:09.13,fonte legenda,,0000,0000,0000,,Eu nem mesmo tenho que participar.
+Dialogue: 0,0:18:09.94,0:18:12.94,fonte legenda,,0000,0000,0000,,Isso está ficando pior.\NAgora, enquanto ainda tenho uma chance...
+Dialogue: 0,0:18:12.94,0:18:17.94,fonte legenda,,0000,0000,0000,,Sacerdote, onde você está indo?\NAs coisas já vão ficar interessantes.
+Dialogue: 0,0:18:17.94,0:18:19.61,fonte legenda,,0000,0000,0000,,A-Apenas indo ao banheiro.
+Dialogue: 0,0:18:19.61,0:18:20.61,fonte legenda,,0000,0000,0000,,Segure.
+Dialogue: 0,0:18:20.61,0:18:21.95,fonte legenda,,0000,0000,0000,,O-Ok.
+Dialogue: 0,0:18:21.95,0:18:23.78,fonte legenda,,0000,0000,0000,,Tudo bem! Agora vem o prato principal!
+Dialogue: 0,0:18:23.78,0:18:26.95,fonte legenda,,0000,0000,0000,,Satan, vou te mostrar minha carta triunfal!
+Dialogue: 0,0:18:26.95,0:18:28.12,fonte legenda,,0000,0000,0000,,Não fique paralisado quando vir ele!
+Dialogue: 0,0:18:28.12,0:18:30.29,fonte legenda,,0000,0000,0000,,Se vai se desculpar, a hora é agora!
+Dialogue: 0,0:18:30.29,0:18:33.96,fonte legenda,,0000,0000,0000,,Jaga, você parece um cachorro\Nderrotado, chorando à distância.
+Dialogue: 0,0:18:33.96,0:18:36.30,fonte legenda,,0000,0000,0000,,Sem problemas. Traga quem você quiser.
+Dialogue: 0,0:18:36.30,0:18:39.26,fonte legenda,,0000,0000,0000,,Não interessa quem você trouxer,\Nnão serão páreos para nós.
+Dialogue: 0,0:18:39.26,0:18:41.97,fonte legenda,,0000,0000,0000,,Certo, pessoal?
+Dialogue: 0,0:18:41.97,0:18:48.43,fonte legenda,,0000,0000,0000,,Ooh, Deus, você é tão convencido!\NMaldição, c-certo! Vou te mostrar!
+Dialogue: 0,0:19:25.94,0:19:28.94,fonte legenda,,0000,0000,0000,,Satan-chan, é o fim da linha para você!
+Dialogue: 0,0:19:36.62,0:19:39.52,fonte legenda,,0000,0000,0000,,Incrível!
+Dialogue: 0,0:19:41.63,0:19:44.63,fonte legenda,,0000,0000,0000,,Diga, senhora, como você faz Bioguerreiros?
+Dialogue: 0,0:19:44.63,0:19:47.63,fonte legenda,,0000,0000,0000,,Deve ser um pouco difícil\Npara vocês garotos entenderem.
+Dialogue: 0,0:19:47.63,0:19:51.97,fonte legenda,,0000,0000,0000,,Eu sei que\Nbiotecnologia é engenharia genética!
+Dialogue: 0,0:19:51.97,0:19:54.47,fonte legenda,,0000,0000,0000,,Minha nossa, isso é incrível!
+Dialogue: 0,0:19:54.47,0:19:57.31,fonte legenda,,0000,0000,0000,,Minha mãe\Né ótima quando se trata de mecânica.
+Dialogue: 0,0:19:57.31,0:19:58.98,fonte legenda,,0000,0000,0000,,T-Trunks-kun...
+Dialogue: 0,0:19:58.98,0:19:59.98,fonte legenda,,0000,0000,0000,,O que é?
+Dialogue: 0,0:19:59.98,0:20:02.91,fonte legenda,,0000,0000,0000,,A-Aquele tem um rabo!
+Dialogue: 0,0:20:03.65,0:20:05.55,fonte legenda,,0000,0000,0000,,Como um Saiya-jin, não é?
+Dialogue: 0,0:20:28.34,0:20:30.24,fonte legenda,,0000,0000,0000,,B-Brolly!
+Dialogue: 0,0:20:38.68,0:20:42.35,fonte legenda,,0000,0000,0000,,M-Mas nós acabamos com ele completamente\Naquela vez com o Kamehameha...
+Dialogue: 0,0:20:42.35,0:20:43.34,fonte legenda,,0000,0000,0000,,Uhum...
+Dialogue: 0,0:21:00.97,0:21:05.31,fonte legenda,,0000,0000,0000,,Ele devia estar morto! Isso não é justo!
+Dialogue: 0,0:21:05.31,0:21:06.87,fonte legenda,,0000,0000,0000,,É...
+Dialogue: 0,0:21:08.65,0:21:11.48,fonte legenda,,0000,0000,0000,,Jaga, quem quer que você mande,\No resultado será o mesmo.
+Dialogue: 0,0:21:11.48,0:21:13.49,fonte legenda,,0000,0000,0000,,Você só está gastando seu dinheiro.
+Dialogue: 0,0:21:13.49,0:21:17.92,fonte legenda,,0000,0000,0000,,Cala boca!\NOk, doutor, traga o superguerreiro!
+Dialogue: 0,0:21:19.32,0:21:21.66,fonte legenda,,0000,0000,0000,,Nain, remova-o dos fluidos, por favor?
+Dialogue: 0,0:21:21.66,0:21:23.18,fonte legenda,,0000,0000,0000,,Sim, Dr. Kori.
+Dialogue: 0,0:21:33.00,0:21:35.01,fonte legenda,,0000,0000,0000,,T-Trunks-kun...
+Dialogue: 0,0:21:35.01,0:21:38.00,fonte legenda,,0000,0000,0000,,Eu acho que vou me molhar de novo...
+Dialogue: 0,0:21:39.01,0:21:43.01,fonte legenda,,0000,0000,0000,,Dessa vez, eu vou me encarregar dele.\NNo. 18, fique fora disso.
+Dialogue: 0,0:21:43.01,0:21:45.95,fonte legenda,,0000,0000,0000,,Hmph! Fique à vontade.
+Dialogue: 0,0:21:47.69,0:21:49.71,fonte legenda,,0000,0000,0000,,Quem será que vai ser!?
+Dialogue: 0,0:21:50.36,0:21:54.03,fonte legenda,,0000,0000,0000,,Ei, senhor!\NFoi você que trouxe o Brolly aqui, não foi?
+Dialogue: 0,0:21:54.03,0:22:00.63,fonte legenda,,0000,0000,0000,,Graças a vocês, eu perdi todo\Nprestígio como sacerdote na vila Natade.
+Dialogue: 0,0:22:00.63,0:22:04.97,fonte legenda,,0000,0000,0000,,Ninguém mais pede para\Neu fazer qualquer tipo de trabalho!
+Dialogue: 0,0:22:04.97,0:22:06.97,fonte legenda,,0000,0000,0000,,O Brolly sobreviveu?
+Dialogue: 0,0:22:06.97,0:22:08.47,fonte legenda,,0000,0000,0000,,Brolly morreu.
+Dialogue: 0,0:22:08.47,0:22:11.31,fonte legenda,,0000,0000,0000,,Ele foi atingido tão forte por\Nvocês, que não sobraram vestígios.
+Dialogue: 0,0:22:11.31,0:22:13.75,fonte legenda,,0000,0000,0000,,O que há lá dentro é um Brolly regenerado
+Dialogue: 0,0:22:13.75,0:22:15.44,fonte legenda,,0000,0000,0000,,através do bio-poder de seus genes!
+Dialogue: 0,0:22:30.33,0:22:35.80,fonte legenda,,0000,0000,0000,,Eu peguei um pouco do sangue\Nseco que estava dentro da nave espacial,
+Dialogue: 0,0:22:35.80,0:22:38.10,fonte legenda,,0000,0000,0000,,e o vendi para o barão.
+Dialogue: 0,0:22:46.01,0:22:50.52,fonte legenda,,0000,0000,0000,,Daí em diante, os super\Nbiocientistas contratados pelo barão
+Dialogue: 0,0:22:50.52,0:22:53.02,fonte legenda,,0000,0000,0000,,usaram aquela única\Nquantidade do sangue de Brolly,
+Dialogue: 0,0:22:53.02,0:22:58.32,fonte legenda,,0000,0000,0000,,e fez um trabalho magnífico trazendo\No mais forte dos guerreiros de volta à vida.
+Dialogue: 0,0:23:03.30,0:23:04.50,fonte legenda,,0000,0000,0000,,Não pode ser!
+Dialogue: 0,0:23:04.50,0:23:09.16,fonte legenda,,0000,0000,0000,,Senhor, se o Brolly voltou à vida,\Nvocê sabe o que vai acontecer?
+Dialogue: 0,0:23:10.64,0:23:13.07,fonte legenda,,0000,0000,0000,,É por isso que estou\Ndeixando o resto com vocês!
+Dialogue: 0,0:23:13.97,0:23:16.24,fonte legenda,,0000,0000,0000,,O que devemos fazer, Trunks-kun?
+Dialogue: 0,0:23:24.98,0:23:28.99,fonte legenda,,0000,0000,0000,,Ei! Você também sabe o quanto ele é forte?
+Dialogue: 0,0:23:28.99,0:23:32.66,fonte legenda,,0000,0000,0000,,Relaxe. Esse superguerreiro foi feito
+Dialogue: 0,0:23:32.66,0:23:35.06,fonte legenda,,0000,0000,0000,,para responder a todas\Nas ordens feitas com minha voz.
+Dialogue: 0,0:23:35.06,0:23:36.70,fonte legenda,,0000,0000,0000,,Ele está do nosso lado.
+Dialogue: 0,0:23:37.00,0:23:39.40,fonte legenda,,0000,0000,0000,,Goten, se vai ser\Nassim, vamos explodir a cápsula
+Dialogue: 0,0:23:39.40,0:23:41.33,fonte legenda,,0000,0000,0000,,em que está Brolly antes que ele saia!
+Dialogue: 0,0:23:41.33,0:23:42.82,fonte legenda,,0000,0000,0000,,Uhum!
+Dialogue: 0,0:23:49.01,0:23:50.68,LEGENDA PARA PODERES,,0000,0000,0000,,KA...
+Dialogue: 0,0:23:50.68,0:23:52.51,LEGENDA PARA PODERES,,0000,0000,0000,,ME...
+Dialogue: 0,0:24:00.02,0:24:01.62,fonte legenda,,0000,0000,0000,,Como assim, kame...?
+Dialogue: 0,0:24:01.62,0:24:03.96,fonte legenda,,0000,0000,0000,,Aposto que é outro truque!
+Dialogue: 0,0:24:03.96,0:24:06.52,fonte legenda,,0000,0000,0000,,Aqueles garotos!\NO que pensam que estão fazendo!?
+Dialogue: 0,0:24:08.29,0:24:10.63,LEGENDA PARA PODERES,,0000,0000,0000,,HA...
+Dialogue: 0,0:24:10.63,0:24:12.96,LEGENDA PARA PODERES,,0000,0000,0000,,ME...
+Dialogue: 0,0:24:50.67,0:24:53.34,fonte legenda,,0000,0000,0000,,Nain, os fluidos estão espirrando!
+Dialogue: 0,0:24:53.34,0:24:56.34,fonte legenda,,0000,0000,0000,,Ponha uma nova\Ncápsula em volta do número 13!
+Dialogue: 0,0:24:56.34,0:24:57.21,fonte legenda,,0000,0000,0000,,Certo!
+Dialogue: 0,0:25:38.65,0:25:39.98,fonte legenda,,0000,0000,0000,,Ele está livre!
+Dialogue: 0,0:25:39.98,0:25:41.45,fonte legenda,,0000,0000,0000,,E agora?
+Dialogue: 0,0:25:43.99,0:25:47.22,fonte legenda,,0000,0000,0000,,Ei! Pare! Ele está do nosso lado!
+Dialogue: 0,0:25:58.34,0:25:59.67,fonte legenda,,0000,0000,0000,,Ei!
+Dialogue: 0,0:26:02.94,0:26:05.61,fonte legenda,,0000,0000,0000,,Q-Q-Que tipo de fluido é aquele!?
+Dialogue: 0,0:26:05.61,0:26:07.95,fonte legenda,,0000,0000,0000,,Nain! Limpe todo o fluido que derramou!
+Dialogue: 0,0:26:07.95,0:26:09.75,fonte legenda,,0000,0000,0000,,Se o fluido entrar em contato com o ar,
+Dialogue: 0,0:26:09.75,0:26:12.28,fonte legenda,,0000,0000,0000,,vai matar as\Ncélulas de qualquer forma de vida,
+Dialogue: 0,0:26:12.28,0:26:15.95,fonte legenda,,0000,0000,0000,,e vai se multiplicar mais e mais,\Naté ficar fora do nosso controle!
+Dialogue: 0,0:26:15.95,0:26:16.78,fonte legenda,,0000,0000,0000,,Certo!
+Dialogue: 0,0:26:21.29,0:26:25.96,fonte legenda,,0000,0000,0000,,Agora, superguerreiro, me mostre seu poder!
+Dialogue: 0,0:26:25.96,0:26:27.96,fonte legenda,,0000,0000,0000,,Derrote Satan!
+Dialogue: 0,0:26:30.97,0:26:34.93,fonte legenda,,0000,0000,0000,,No. 18! É melhor você ir primeiro!
+Dialogue: 0,0:26:36.98,0:26:39.51,fonte legenda,,0000,0000,0000,,Certo.\NMas vai te custar mais 20 milhões.
+Dialogue: 0,0:26:39.51,0:26:41.31,fonte legenda,,0000,0000,0000,,Quando isso acabar,\Nvamos voltar, entendeu?
+Dialogue: 0,0:26:41.31,0:26:42.98,fonte legenda,,0000,0000,0000,,Daí eu te pagarei!
+Dialogue: 0,0:26:42.98,0:26:47.82,fonte legenda,,0000,0000,0000,,Ó-Ótimo! Se chegarmos em casa\Nseguros, lhe pagarei o quanto quiser!
+Dialogue: 0,0:26:47.82,0:26:50.32,fonte legenda,,0000,0000,0000,,Não esqueça essa promessa!
+Dialogue: 0,0:26:50.32,0:26:51.98,fonte legenda,,0000,0000,0000,,No. 18-san!
+Dialogue: 0,0:27:14.61,0:27:16.15,fonte legenda,,0000,0000,0000,,Não acredito que essa coisa existe.
+Dialogue: 0,0:27:16.15,0:27:19.95,fonte legenda,,0000,0000,0000,,É um monstro inacreditável!\N20 milhões de zeni é pouco dinheiro!
+Dialogue: 0,0:27:27.96,0:27:30.30,fonte legenda,,0000,0000,0000,,Muito bem! Gostou disso?\NPareceu bem doloroso, Satan!
+Dialogue: 0,0:27:30.30,0:27:34.30,fonte legenda,,0000,0000,0000,,Essa é a realidade! Pode se desculpar\Nagora, mas eu não te deixarei escapar!
+Dialogue: 0,0:27:34.30,0:27:36.40,fonte legenda,,0000,0000,0000,,Agora, por todos\Nos anos de humilhação que vivi,
+Dialogue: 0,0:27:36.40,0:27:39.50,fonte legenda,,0000,0000,0000,,acabe com o Satan!
+Dialogue: 0,0:27:42.31,0:27:44.74,fonte legenda,,0000,0000,0000,,E-Eu serei morto!
+Dialogue: 0,0:27:45.98,0:27:50.24,fonte legenda,,0000,0000,0000,,P-Pare aí um segundo!\NMeu estômago está doendo!
+Dialogue: 0,0:28:06.93,0:28:08.87,fonte legenda,,0000,0000,0000,,Nos salvem!
+Dialogue: 0,0:28:15.61,0:28:19.94,fonte legenda,,0000,0000,0000,,Ei, do que tem tanto medo!?\NVocê não é o campeão mundial?
+Dialogue: 0,0:28:19.94,0:28:21.95,fonte legenda,,0000,0000,0000,,Você tem que revidar!
+Dialogue: 0,0:28:21.95,0:28:25.28,fonte legenda,,0000,0000,0000,,C-Certo. Mas meu estômago dói...
+Dialogue: 0,0:28:25.28,0:28:26.98,fonte legenda,,0000,0000,0000,,Trunks-kun!
+Dialogue: 0,0:28:28.62,0:28:31.29,fonte legenda,,0000,0000,0000,,Goten, não seremos derrotados dessa vez!
+Dialogue: 0,0:28:31.29,0:28:32.31,fonte legenda,,0000,0000,0000,,Uhum!
+Dialogue: 0,0:28:37.96,0:28:40.66,fonte legenda,,0000,0000,0000,,Oh! Guerreiros de cabelos dourados!
+Dialogue: 0,0:28:43.30,0:28:45.53,fonte legenda,,0000,0000,0000,,Agora as coisas ficarão bem!
+Dialogue: 0,0:28:46.30,0:28:48.31,fonte legenda,,0000,0000,0000,,Não seremos derrotados pela segunda vez!
+Dialogue: 0,0:28:48.31,0:28:50.30,fonte legenda,,0000,0000,0000,,Não cairemos no mesmo truque de novo!
+Dialogue: 0,0:29:24.28,0:29:30.28,fonte legenda,,0000,0000,0000,,Pare! Se mais fluido ainda\Nespirrar...  o lugar será destruído!
+Dialogue: 0,0:29:30.28,0:29:35.12,fonte legenda,,0000,0000,0000,,Ei, Brolly! Eu posso ver\Ntodos os seus movimentos lentos!
+Dialogue: 0,0:29:35.12,0:29:39.28,fonte legenda,,0000,0000,0000,,Por quanto tempo pensou que as\Nmesmas rajadas de energia funcionariam?
+Dialogue: 0,0:29:46.97,0:29:49.93,fonte legenda,,0000,0000,0000,,Parem! Já chega! Parem!
+Dialogue: 0,0:29:55.64,0:29:57.14,fonte legenda,,0000,0000,0000,,Podemos vencê-lo, Goten!
+Dialogue: 0,0:29:57.14,0:29:59.64,fonte legenda,,0000,0000,0000,,Eu posso ver seu próximo movimento!
+Dialogue: 0,0:29:59.64,0:30:01.54,fonte legenda,,0000,0000,0000,,Eu também posso ver!
+Dialogue: 0,0:30:03.31,0:30:04.84,fonte legenda,,0000,0000,0000,,Nos salvem!
+Dialogue: 0,0:30:12.66,0:30:14.33,fonte legenda,,0000,0000,0000,,Estamos caindo! Não adianta!
+Dialogue: 0,0:30:14.33,0:30:15.33,fonte legenda,,0000,0000,0000,,Nos deixe sair daqui, depressa!
+Dialogue: 0,0:30:15.33,0:30:17.00,fonte legenda,,0000,0000,0000,,O fluido está chegando!
+Dialogue: 0,0:30:17.00,0:30:19.66,fonte legenda,,0000,0000,0000,,Certo, isso é tudo.
+Dialogue: 0,0:30:28.34,0:30:29.67,fonte legenda,,0000,0000,0000,,O que é isso!?
+Dialogue: 0,0:30:29.67,0:30:32.80,fonte legenda,,0000,0000,0000,,Onbachama jichama! Yayakoni totsama!
+Dialogue: 0,0:30:41.02,0:30:42.42,fonte legenda,,0000,0000,0000,,O-O que é isso?
+Dialogue: 0,0:30:43.69,0:30:45.02,fonte legenda,,0000,0000,0000,,Aperte o botão de emergência!
+Dialogue: 0,0:30:45.02,0:30:46.36,fonte legenda,,0000,0000,0000,,O que está acontecendo!?
+Dialogue: 0,0:30:46.36,0:30:47.69,fonte legenda,,0000,0000,0000,,Abram a porta!
+Dialogue: 0,0:30:47.69,0:30:50.66,fonte legenda,,0000,0000,0000,,Abram! Abram! Abram!
+Dialogue: 0,0:30:53.70,0:30:54.69,fonte legenda,,0000,0000,0000,,Estamos salvos!
+Dialogue: 0,0:31:02.97,0:31:04.98,fonte legenda,,0000,0000,0000,,Goten! Acerta ele desse lado!
+Dialogue: 0,0:31:04.98,0:31:05.64,fonte legenda,,0000,0000,0000,,O quê!?
+Dialogue: 0,0:31:05.64,0:31:07.24,fonte legenda,,0000,0000,0000,,Nos salvem!
+Dialogue: 0,0:31:15.65,0:31:19.25,fonte legenda,,0000,0000,0000,,Se eu ficar aqui, não importa\Nquantas vidas eu tenha, vou morrer!
+Dialogue: 0,0:31:34.34,0:31:35.71,fonte legenda,,0000,0000,0000,,Seu desgraçado!
+Dialogue: 0,0:31:56.03,0:31:59.06,fonte legenda,,0000,0000,0000,,Você está bem?\NEu estava preocupado com você.
+Dialogue: 0,0:31:59.06,0:32:02.93,fonte legenda,,0000,0000,0000,,Um marido deve ao menos\Nresgatar sua própria esposa, certo?
+Dialogue: 0,0:32:23.32,0:32:24.85,fonte legenda,,0000,0000,0000,,Kuririn-san!
+Dialogue: 0,0:32:41.34,0:32:42.67,fonte legenda,,0000,0000,0000,,Goten, agora!
+Dialogue: 0,0:32:42.67,0:32:43.66,fonte legenda,,0000,0000,0000,,Certo!
+Dialogue: 0,0:32:48.01,0:32:49.68,fonte legenda,,0000,0000,0000,,Goten, nós o pegamos!
+Dialogue: 0,0:32:49.68,0:32:50.54,fonte legenda,,0000,0000,0000,,Uhum!
+Dialogue: 0,0:32:55.02,0:32:57.69,fonte legenda,,0000,0000,0000,,Me ajudem!
+Dialogue: 0,0:32:57.69,0:32:58.48,fonte legenda,,0000,0000,0000,,Goten!
+Dialogue: 0,0:33:12.64,0:33:16.63,fonte legenda,,0000,0000,0000,,Goten! O que você está fazendo!?\NNão posso fazer isso sozinho!
+Dialogue: 0,0:33:19.31,0:33:20.68,fonte legenda,,0000,0000,0000,,Meu ombro!
+Dialogue: 0,0:33:39.00,0:33:42.67,fonte legenda,,0000,0000,0000,,Pare! Já chega! Ele vai morrer!
+Dialogue: 0,0:33:42.67,0:33:47.40,fonte legenda,,0000,0000,0000,,Fui eu quem te trouxe de\Nvolta à vida! Escute o que eu digo!
+Dialogue: 0,0:33:57.01,0:33:59.24,fonte legenda,,0000,0000,0000,,Você pagará por isso!
+Dialogue: 0,0:34:11.30,0:34:12.96,fonte legenda,,0000,0000,0000,,M-Meu ombro!
+Dialogue: 0,0:34:19.97,0:34:21.80,fonte legenda,,0000,0000,0000,,Maldito!
+Dialogue: 0,0:34:23.64,0:34:26.61,fonte legenda,,0000,0000,0000,,Se meu ombro não estivesse machucado!
+Dialogue: 0,0:34:35.32,0:34:36.98,LEGENDA PARA PODERES,,0000,0000,0000,,KIENZAN!!
+Dialogue: 0,0:34:58.01,0:34:59.87,fonte legenda,,0000,0000,0000,,G-Goten!
+Dialogue: 0,0:35:03.28,0:35:04.95,fonte legenda,,0000,0000,0000,,O que devo fazer?
+Dialogue: 0,0:35:04.95,0:35:07.29,fonte legenda,,0000,0000,0000,,Nos ajudem!
+Dialogue: 0,0:35:07.29,0:35:09.85,fonte legenda,,0000,0000,0000,,Nos ajudem! Nos ajudem!
+Dialogue: 0,0:35:29.97,0:35:31.70,fonte legenda,,0000,0000,0000,,É-É isso!
+Dialogue: 0,0:35:32.98,0:35:34.31,fonte legenda,,0000,0000,0000,,Tem que ser isso!
+Dialogue: 0,0:35:43.32,0:35:44.58,fonte legenda,,0000,0000,0000,,Brolly!
+Dialogue: 0,0:35:44.99,0:35:48.39,fonte legenda,,0000,0000,0000,,Ei! Vem me pegar! Vem me pegar!
+Dialogue: 0,0:35:49.99,0:35:54.99,fonte legenda,,0000,0000,0000,,Qual o problema, Brolly?\NVem aqui, agora, e eu vou te matar!
+Dialogue: 0,0:35:56.67,0:35:59.66,fonte legenda,,0000,0000,0000,,Se isso te incomoda,\Nvem aqui e faz alguma coisa!
+Dialogue: 0,0:36:01.27,0:36:02.14,fonte legenda,,0000,0000,0000,,Agora!
+Dialogue: 0,0:36:03.61,0:36:05.73,fonte legenda,,0000,0000,0000,,Tome isso, Brolly!
+Dialogue: 0,0:37:14.95,0:37:16.78,fonte legenda,,0000,0000,0000,,E-Eu consegui!
+Dialogue: 0,0:37:59.66,0:38:00.78,fonte legenda,,0000,0000,0000,,Goten!
+Dialogue: 0,0:38:08.27,0:38:10.46,fonte legenda,,0000,0000,0000,,Goten! Goten!
+Dialogue: 0,0:38:32.29,0:38:34.15,fonte legenda,,0000,0000,0000,,Nós conseguimos!
+Dialogue: 0,0:38:38.96,0:38:40.30,fonte legenda,,0000,0000,0000,,Onde está o Brolly?
+Dialogue: 0,0:38:40.30,0:38:41.99,fonte legenda,,0000,0000,0000,,Ele está naquele fluido.
+Dialogue: 0,0:38:44.30,0:38:47.07,fonte legenda,,0000,0000,0000,,No lugar de força,\Neu usei a cabeça... usei a cabeça!
+Dialogue: 0,0:38:59.98,0:39:03.25,fonte legenda,,0000,0000,0000,,Estou arruinado! Perdi tudo!
+Dialogue: 0,0:39:03.25,0:39:08.09,fonte legenda,,0000,0000,0000,,Seu idiota!\NVocê vai morrer antes de perder tudo!
+Dialogue: 0,0:39:11.93,0:39:14.26,fonte legenda,,0000,0000,0000,,Goten, temos que salvar todos!
+Dialogue: 0,0:39:21.27,0:39:24.61,fonte legenda,,0000,0000,0000,,Segura firme! Se você cair, você já era!
+Dialogue: 0,0:39:24.61,0:39:25.54,fonte legenda,,0000,0000,0000,,Certo!
+Dialogue: 0,0:39:26.61,0:39:28.28,fonte legenda,,0000,0000,0000,,Vai logo!
+Dialogue: 0,0:39:28.28,0:39:30.44,fonte legenda,,0000,0000,0000,,Não empurra, No. 18!
+Dialogue: 0,0:39:34.62,0:39:37.29,fonte legenda,,0000,0000,0000,,Seus velhos, segurem em mim.
+Dialogue: 0,0:39:37.29,0:39:40.29,fonte legenda,,0000,0000,0000,,Você nos salvará,\Nmesmo com tudo que fizemos?
+Dialogue: 0,0:39:40.29,0:39:44.75,fonte legenda,,0000,0000,0000,,Jaga, você deve\Nseguir o espírito dele de bom lutador!
+Dialogue: 0,0:40:03.98,0:40:06.65,fonte legenda,,0000,0000,0000,,Não adianta.\NEssa coisa não se detém com nada.
+Dialogue: 0,0:40:06.65,0:40:09.65,fonte legenda,,0000,0000,0000,,Não a nada que\Npossamos fazer quanto àquele fluido!?
+Dialogue: 0,0:40:09.65,0:40:12.06,fonte legenda,,0000,0000,0000,,O poder de se replicar do fluido aumenta
+Dialogue: 0,0:40:12.06,0:40:14.99,fonte legenda,,0000,0000,0000,,quando ele\Ndevora células de diferentes formas.
+Dialogue: 0,0:40:14.99,0:40:17.46,fonte legenda,,0000,0000,0000,,Já que ele absorveu\Nas células do monstro Brolly,
+Dialogue: 0,0:40:17.46,0:40:19.33,fonte legenda,,0000,0000,0000,,ele obteve um poder extraordinário!
+Dialogue: 0,0:40:19.33,0:40:21.83,fonte legenda,,0000,0000,0000,,Nessa velocidade, irá cobrir toda a Terra!
+Dialogue: 0,0:40:21.83,0:40:24.67,fonte legenda,,0000,0000,0000,,É o fim do mundo!
+Dialogue: 0,0:40:24.67,0:40:26.67,fonte legenda,,0000,0000,0000,,Eu fiz algo terrível!
+Dialogue: 0,0:40:26.67,0:40:28.01,fonte legenda,,0000,0000,0000,,Olhe para você mesmo!
+Dialogue: 0,0:40:28.01,0:40:30.67,fonte legenda,,0000,0000,0000,,Ei, você também tem culpa!
+Dialogue: 0,0:40:30.67,0:40:31.68,fonte legenda,,0000,0000,0000,,Você está certo.
+Dialogue: 0,0:40:31.68,0:40:34.24,fonte legenda,,0000,0000,0000,,Me ajudem!
+Dialogue: 0,0:40:56.03,0:40:59.59,fonte legenda,,0000,0000,0000,,Afaste-se! Eu sou o\Ncampeão mundial, Mister Satan!
+Dialogue: 0,0:41:06.98,0:41:10.15,fonte legenda,,0000,0000,0000,,Entendi.\NO fluido é vulnerável à água do mar.
+Dialogue: 0,0:41:10.15,0:41:12.71,fonte legenda,,0000,0000,0000,,Podemos parar o fluido!
+Dialogue: 0,0:41:18.66,0:41:20.32,fonte legenda,,0000,0000,0000,,Depressa!
+Dialogue: 0,0:41:20.32,0:41:21.35,fonte legenda,,0000,0000,0000,,Vamos!
+Dialogue: 0,0:41:39.68,0:41:42.81,LEGENDA PARA PODERES,,0000,0000,0000,,KA...
+Dialogue: 0,0:41:43.68,0:41:45.98,LEGENDA PARA PODERES,,0000,0000,0000,,ME...
+Dialogue: 0,0:41:46.68,0:41:48.74,LEGENDA PARA PODERES,,0000,0000,0000,,HA...
+Dialogue: 0,0:41:49.69,0:41:51.71,LEGENDA PARA PODERES,,0000,0000,0000,,ME...
+Dialogue: 0,0:41:52.02,0:41:54.29,LEGENDA PARA PODERES,,0000,0000,0000,,HA!!
+Dialogue: 0,0:42:52.02,0:42:54.02,fonte legenda,,0000,0000,0000,,Goten, conseguimos!
+Dialogue: 0,0:42:54.02,0:42:54.88,fonte legenda,,0000,0000,0000,,Uhum!
+Dialogue: 0,0:42:56.02,0:42:59.02,fonte legenda,,0000,0000,0000,,Goten, você\Ndescobriu o ponto fraco, incrível!
+Dialogue: 0,0:42:59.02,0:43:00.96,fonte legenda,,0000,0000,0000,,Foi tudo graças ao Satan-san.
+Dialogue: 0,0:43:00.96,0:43:04.83,fonte legenda,,0000,0000,0000,,Até ele é útil de vez em quando, hein?
+Dialogue: 0,0:43:06.63,0:43:10.40,fonte legenda,,0000,0000,0000,,Kakarotto!
+Dialogue: 0,0:43:14.64,0:43:16.57,fonte legenda,,0000,0000,0000,,Qual é o problema dele!?
+Dialogue: 0,0:43:18.31,0:43:19.31,fonte legenda,,0000,0000,0000,,Não agüento mais!
+Dialogue: 0,0:43:19.31,0:43:20.94,fonte legenda,,0000,0000,0000,,Vai nos matar!
+Dialogue: 0,0:43:26.98,0:43:29.18,fonte legenda,,0000,0000,0000,,Olha!
+Dialogue: 0,0:43:36.33,0:43:39.33,fonte legenda,,0000,0000,0000,,Maldito! Nos assustou, hein?
+Dialogue: 0,0:43:39.33,0:43:41.52,fonte legenda,,0000,0000,0000,,Esse infeliz é forte.
+Dialogue: 0,0:43:49.34,0:43:52.01,fonte legenda,,0000,0000,0000,,Agora, Brolly já era pra valer!
+Dialogue: 0,0:43:52.01,0:43:53.17,fonte legenda,,0000,0000,0000,,Uhum.
+Dialogue: 0,0:44:00.62,0:44:03.29,fonte legenda,,0000,0000,0000,,Ei! Alguém me tire daqui!
+Dialogue: 0,0:44:03.29,0:44:06.19,fonte legenda,,0000,0000,0000,,Certo.\NO preço pra te tirar daí é 40 milhões.
+Dialogue: 0,0:44:06.19,0:44:08.52,fonte legenda,,0000,0000,0000,,E tudo junto resulta em 100 milhões de zeni!
+Dialogue: 0,0:44:09.96,0:44:12.05,fonte legenda,,0000,0000,0000,,Você está brincando!
+Dialogue: 0,0:44:12.96,0:44:14.99,fonte legenda,,0000,0000,0000,,Esse cara é teimoso!
+Dialogue: 0,0:44:29.65,0:44:33.38,fonte legenda,,0000,0000,0000,,O quê? Kaioh-sama quer que eu vá\Npara o inferno de novo, com Paikuhan,
+Dialogue: 0,0:44:33.38,0:44:36.75,fonte legenda,,0000,0000,0000,,para acabar com o\NBrolly, que está causando confusão?
+Dialogue: 0,0:44:42.33,0:44:45.26,fonte legenda,,0000,0000,0000,,Brolly sempre causando problemas, não é?
+Dialogue: 0,0:44:48.00,0:44:51.27,fonte legenda,,0000,0000,0000,,Certo, mas antes de ir... acho\Nque não posso lutar de estômago vazio.
+Dialogue: 0,0:44:51.27,0:44:53.90,fonte legenda,,0000,0000,0000,,Me deixe comer primeiro, ok?
+Dialogue: 0,0:44:59.84,0:45:02.68,legenda para abertura e encerramento,,0000,0000,0000,,DRA-GON! Dragon Power!
+Dialogue: 0,0:45:03.11,0:45:06.45,legenda para abertura e encerramento,,0000,0000,0000,,DRA-GON! Dragon Power!
+Dialogue: 0,0:45:06.45,0:45:09.79,legenda para abertura e encerramento,,0000,0000,0000,,Power! Power! Power!
+Dialogue: 0,0:45:09.79,0:45:15.45,legenda para abertura e encerramento,,0000,0000,0000,,Dragon Power!
+Dialogue: 0,0:45:24.13,0:45:30.47,legenda para abertura e encerramento,,0000,0000,0000,,Das profundezas da escuridão, eles vêm...
+Dialogue: 0,0:45:30.47,0:45:36.15,legenda para abertura e encerramento,,0000,0000,0000,,Bioguerreiros, com sua genética modificada.
+Dialogue: 0,0:45:36.15,0:45:42.49,legenda para abertura e encerramento,,0000,0000,0000,,Contra alguém que\Nnão pode ser derrotado sozinho,
+Dialogue: 0,0:45:42.49,0:45:48.16,legenda para abertura e encerramento,,0000,0000,0000,,se nossos dois\Ncorações se juntassem em um,
+Dialogue: 0,0:45:48.16,0:45:52.65,legenda para abertura e encerramento,,0000,0000,0000,,a Vitória sorrirá para nós!
+Dialogue: 0,0:45:54.16,0:45:55.83,legenda para abertura e encerramento,,0000,0000,0000,,D! De nada importa a distância,
+Dialogue: 0,0:45:55.83,0:45:57.50,legenda para abertura e encerramento,,0000,0000,0000,,R! Resista e siga em frente,
+Dialogue: 0,0:45:57.50,0:46:00.77,legenda para abertura e encerramento,,0000,0000,0000,,A! Afirmando um amor sem fim!
+Dialogue: 0,0:46:00.77,0:46:04.11,legenda para abertura e encerramento,,0000,0000,0000,,GO! Lute! Go! Go! Go!
+Dialogue: 0,0:46:04.11,0:46:06.78,legenda para abertura e encerramento,,0000,0000,0000,,N! Não precisa se segurar!
+Dialogue: 0,0:46:06.78,0:46:12.31,legenda para abertura e encerramento,,0000,0000,0000,,O futuro para nós dois é ilimitado!
+Dialogue: 0,0:46:13.78,0:46:16.45,legenda para abertura e encerramento,,0000,0000,0000,,DRA-GON! Dragon Power!
+Dialogue: 0,0:46:16.79,0:46:20.12,legenda para abertura e encerramento,,0000,0000,0000,,DRA-GON! Dragon Power!
+Dialogue: 0,0:46:20.12,0:46:23.15,legenda para abertura e encerramento,,0000,0000,0000,,Power! Power! Power!
+Dialogue: 0,0:46:23.79,0:46:29.63,legenda para abertura e encerramento,,0000,0000,0000,,Dragon Power!
+Dialogue: 0,0:46:30.62,0:46:33.96,legenda para anuncio de episódio e creditos,,0000,0000,0000,,"LEGENDAS: MAZZOCATO"\N"EDIÇÃO: HUGOKAMUS"
