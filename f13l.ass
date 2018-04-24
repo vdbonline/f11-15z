@@ -1,0 +1,506 @@
+﻿[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: fonte legenda,Tahoma,30,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: legenda para abertura e encerramento,@GungsuhChe,30,&H0000C6FF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: legenda para anuncio de episódio e creditos,Brush Script Std,35,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: LEGENDA PARA PODERES,AR JULIAN,35,&H00F0E7BE,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: anuncio dos locais,Tekton Pro Ext,35,&H00D0FAD0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: musica no video,@Kozuka Gothic Pro H,35,&H00D0FAD0,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:40.63,0:00:42.82,fonte legenda,,0000,0000,0000,,Agora, quanto a Terra...
+Dialogue: 0,0:00:52.09,0:00:55.76,legenda para anuncio de episódio e creditos,,0000,0000,0000,,EXPLOSÃO! O ATAQUE DO DRAGÃO.\N"LEGENDAS: MAZZOCATO"\N"EDIÇÃO: HUGOKAMUS"
+Dialogue: 0,0:01:17.10,0:01:18.79,fonte legenda,,0000,0000,0000,,Tomem isso!
+Dialogue: 0,0:01:29.45,0:01:30.67,fonte legenda,,0000,0000,0000,,Miserável!
+Dialogue: 0,0:01:48.80,0:01:50.70,fonte legenda,,0000,0000,0000,,Quem pensam que são?!
+Dialogue: 0,0:01:58.81,0:02:00.24,fonte legenda,,0000,0000,0000,,Vou acabar com...
+Dialogue: 0,0:02:02.75,0:02:04.41,fonte legenda,,0000,0000,0000,,Ajudem-me!
+Dialogue: 0,0:02:07.25,0:02:09.25,fonte legenda,,0000,0000,0000,,Enquanto houver maldade no mundo...
+Dialogue: 0,0:02:09.25,0:02:11.25,fonte legenda,,0000,0000,0000,,...a luz da justiça\Nqueimará como uma chama.
+Dialogue: 0,0:02:11.25,0:02:13.26,fonte legenda,,0000,0000,0000,,Grande Saiyaman, Número I...
+Dialogue: 0,0:02:13.26,0:02:14.92,fonte legenda,,0000,0000,0000,,...e Número II...
+Dialogue: 0,0:02:14.92,0:02:18.09,fonte legenda,,0000,0000,0000,,...salvando o dia novamente!
+Dialogue: 0,0:02:21.68,0:02:22.93,fonte legenda,,0000,0000,0000,,Perfeito!
+Dialogue: 0,0:02:31.44,0:02:34.03,fonte legenda,,0000,0000,0000,,- Já voltei.\N- Bom trabalho.
+Dialogue: 0,0:02:35.61,0:02:39.95,fonte legenda,,0000,0000,0000,,Desculpe pelo atraso.\NTinha muita gente no banheiro.
+Dialogue: 0,0:02:39.95,0:02:43.62,fonte legenda,,0000,0000,0000,,Gohan, sabemos quem você é...
+Dialogue: 0,0:02:43.62,0:02:45.59,fonte legenda,,0000,0000,0000,,Tudo bem, vamos continuar.
+Dialogue: 0,0:02:45.59,0:02:52.29,fonte legenda,,0000,0000,0000,,Aqui, o escritor, Doskevich,\Nabandona as mulheres que amava.
+Dialogue: 0,0:02:52.29,0:02:54.63,fonte legenda,,0000,0000,0000,,Sim, aqui é o Grande Saiyaman, Número II.
+Dialogue: 0,0:02:54.63,0:02:58.30,fonte legenda,,0000,0000,0000,,Um velho estranho escalou a Raenzel Tower,\Ne está causando uma confusão.
+Dialogue: 0,0:02:58.30,0:03:02.07,fonte legenda,,0000,0000,0000,,Vocês podem cuidar disso sozinhos!
+Dialogue: 0,0:03:02.07,0:03:04.41,fonte legenda,,0000,0000,0000,,Nossa...
+Dialogue: 0,0:03:04.41,0:03:06.41,fonte legenda,,0000,0000,0000,,Professora,\Ncom licença, preciso ir ao banheiro.
+Dialogue: 0,0:03:06.41,0:03:08.24,fonte legenda,,0000,0000,0000,,De novo?
+Dialogue: 0,0:03:08.24,0:03:12.25,fonte legenda,,0000,0000,0000,,Acho que o sapo que\Ncomi ontem podia estar estragado.
+Dialogue: 0,0:03:12.25,0:03:16.59,fonte legenda,,0000,0000,0000,,Deixe-me em paz!
+Dialogue: 0,0:03:16.59,0:03:19.59,fonte legenda,,0000,0000,0000,,Minhas esperanças e sonhos se foram!
+Dialogue: 0,0:03:19.59,0:03:22.42,fonte legenda,,0000,0000,0000,,Vou pular daqui para a morte!
+Dialogue: 0,0:03:22.42,0:03:27.43,fonte legenda,,0000,0000,0000,,Ei, é o velho que saiu na televisão\Nmais cedo com uma caixa de música.
+Dialogue: 0,0:03:27.43,0:03:28.43,fonte legenda,,0000,0000,0000,,Sim.
+Dialogue: 0,0:03:28.43,0:03:29.77,fonte legenda,,0000,0000,0000,,É aquele velho estranho, não é?
+Dialogue: 0,0:03:29.77,0:03:32.10,fonte legenda,,0000,0000,0000,,Oh, é o Grande Saiyaman!
+Dialogue: 0,0:03:32.10,0:03:34.77,fonte legenda,,0000,0000,0000,,Saiyaman!
+Dialogue: 0,0:03:34.77,0:03:36.61,fonte legenda,,0000,0000,0000,,Contamos com você!
+Dialogue: 0,0:03:36.61,0:03:40.78,fonte legenda,,0000,0000,0000,,Não interessa quem subir,\Neu não vou descer!
+Dialogue: 0,0:03:40.78,0:03:43.78,fonte legenda,,0000,0000,0000,,Senhor, é perigoso aqui!\NDesça conosco!
+Dialogue: 0,0:03:43.78,0:03:46.28,fonte legenda,,0000,0000,0000,,Vão embora! Eu quero morrer!
+Dialogue: 0,0:03:46.28,0:03:48.62,fonte legenda,,0000,0000,0000,,Então por que não vai em frente?
+Dialogue: 0,0:03:48.62,0:03:50.79,fonte legenda,,0000,0000,0000,,Videl-san!
+Dialogue: 0,0:03:50.79,0:03:53.46,fonte legenda,,0000,0000,0000,,Vamos, apresse-se e pule!
+Dialogue: 0,0:03:53.46,0:03:55.65,fonte legenda,,0000,0000,0000,,Certo, assistam!
+Dialogue: 0,0:03:57.46,0:03:58.76,fonte legenda,,0000,0000,0000,,V-Você está brincando!
+Dialogue: 0,0:04:00.73,0:04:02.40,fonte legenda,,0000,0000,0000,,Salvem-me!
+Dialogue: 0,0:04:02.40,0:04:04.57,fonte legenda,,0000,0000,0000,,Ele conseguiu!
+Dialogue: 0,0:04:04.57,0:04:06.40,fonte legenda,,0000,0000,0000,,Você está bem?
+Dialogue: 0,0:04:06.40,0:04:10.41,fonte legenda,,0000,0000,0000,,Não podia ter me salvado mais cedo?!\NE se eu morresse?!
+Dialogue: 0,0:04:10.41,0:04:12.17,fonte legenda,,0000,0000,0000,,Velho esquisito...
+Dialogue: 0,0:04:13.41,0:04:16.41,fonte legenda,,0000,0000,0000,,Você já ouviu falar do herói Tapion?
+Dialogue: 0,0:04:16.41,0:04:18.08,fonte legenda,,0000,0000,0000,,Não.
+Dialogue: 0,0:04:18.08,0:04:19.41,fonte legenda,,0000,0000,0000,,Que pena.
+Dialogue: 0,0:04:19.41,0:04:23.42,fonte legenda,,0000,0000,0000,,Imagine, não\Nconhecer aquele herói lendário,
+Dialogue: 0,0:04:23.42,0:04:27.59,fonte legenda,,0000,0000,0000,,que salvou o Planeta Conuts\Nna Galáxia do Sul há mil anos...
+Dialogue: 0,0:04:27.59,0:04:30.26,fonte legenda,,0000,0000,0000,,Gohan-kun, temos que voltar logo.
+Dialogue: 0,0:04:30.26,0:04:31.76,fonte legenda,,0000,0000,0000,,Eu com certeza gostaria de conhecê-lo.
+Dialogue: 0,0:04:31.76,0:04:34.26,fonte legenda,,0000,0000,0000,,- Verdade?\N- Eu posso conhecer?
+Dialogue: 0,0:04:34.26,0:04:37.43,fonte legenda,,0000,0000,0000,,Gostaria de apresentá-lo, mas não posso.
+Dialogue: 0,0:04:37.43,0:04:39.77,fonte legenda,,0000,0000,0000,,Infelizmente, o herói Tapion...
+Dialogue: 0,0:04:39.77,0:04:44.44,fonte legenda,,0000,0000,0000,,...está selado dentro\Ndessa misteriosa caixa de música.
+Dialogue: 0,0:04:44.44,0:04:47.44,fonte legenda,,0000,0000,0000,,Aí dentro?\NSe ele é um herói, então por que...?
+Dialogue: 0,0:04:47.44,0:04:50.45,fonte legenda,,0000,0000,0000,,Assim que o herói reviver,\Nvocê entenderá tudo.
+Dialogue: 0,0:04:50.45,0:04:52.78,fonte legenda,,0000,0000,0000,,Gohan-kun, vamos nos apressar e voltar.
+Dialogue: 0,0:04:52.78,0:04:54.12,fonte legenda,,0000,0000,0000,,Só um minuto.
+Dialogue: 0,0:04:54.12,0:04:56.62,fonte legenda,,0000,0000,0000,,Senhor, o que quer dizer?
+Dialogue: 0,0:04:56.62,0:05:02.39,fonte legenda,,0000,0000,0000,,De acordo com os meus instintos aguçados,\Nhá uma crise se aproximando da Terra!
+Dialogue: 0,0:05:02.39,0:05:05.39,fonte legenda,,0000,0000,0000,,Uma crise na Terra?!
+Dialogue: 0,0:05:05.39,0:05:10.07,fonte legenda,,0000,0000,0000,,Um gigante malvado, que destruirá\No universo, se aproxima da Terra.
+Dialogue: 0,0:05:10.07,0:05:14.70,fonte legenda,,0000,0000,0000,,É por isso que precisamos do\Npoder do herói, Tapion, agora mesmo!
+Dialogue: 0,0:05:16.74,0:05:21.74,fonte legenda,,0000,0000,0000,,Por essa razão, passei trinta anos\Nprocurando essa caixa de música.
+Dialogue: 0,0:05:21.74,0:05:24.75,fonte legenda,,0000,0000,0000,,Então você pode se\Napressar e revivê-lo, não pode?
+Dialogue: 0,0:05:24.75,0:05:26.92,fonte legenda,,0000,0000,0000,,Eu faria, se pudesse!
+Dialogue: 0,0:05:26.92,0:05:29.08,fonte legenda,,0000,0000,0000,,Você não pode?
+Dialogue: 0,0:05:29.08,0:05:32.09,fonte legenda,,0000,0000,0000,,Você pode girar a manivela?
+Dialogue: 0,0:05:32.09,0:05:33.09,fonte legenda,,0000,0000,0000,,Isso?
+Dialogue: 0,0:05:33.09,0:05:37.76,fonte legenda,,0000,0000,0000,,Se puder fazer a caixa de música tocar,\No herói Tapion será revivido.
+Dialogue: 0,0:05:37.76,0:05:40.56,fonte legenda,,0000,0000,0000,,Ah é? Por que não disse antes?
+Dialogue: 0,0:05:43.10,0:05:45.50,fonte legenda,,0000,0000,0000,,Não se mexe...
+Dialogue: 0,0:05:50.44,0:05:53.44,fonte legenda,,0000,0000,0000,,P-Por que não se mexe?
+Dialogue: 0,0:05:53.44,0:05:55.34,fonte legenda,,0000,0000,0000,,Deixe-me ver um minuto.
+Dialogue: 0,0:05:56.78,0:05:58.78,fonte legenda,,0000,0000,0000,,Essa coisa ta emperrada.
+Dialogue: 0,0:05:58.78,0:06:01.72,fonte legenda,,0000,0000,0000,,Senhorita! Como pôde fazer isso?!
+Dialogue: 0,0:06:01.72,0:06:03.72,fonte legenda,,0000,0000,0000,,Vamos. A aula vai terminar.
+Dialogue: 0,0:06:03.72,0:06:04.72,fonte legenda,,0000,0000,0000,,Oh, Videl-san!
+Dialogue: 0,0:06:04.72,0:06:06.39,fonte legenda,,0000,0000,0000,,Shen Long!
+Dialogue: 0,0:06:06.39,0:06:09.73,fonte legenda,,0000,0000,0000,,Por favor, chame Shen Long.
+Dialogue: 0,0:06:09.73,0:06:12.06,fonte legenda,,0000,0000,0000,,Shen Long?
+Dialogue: 0,0:06:12.06,0:06:16.73,fonte legenda,,0000,0000,0000,,Por favor, faça Shen Long reviver\No herói Tapion! Eu imploro!
+Dialogue: 0,0:06:16.73,0:06:18.40,fonte legenda,,0000,0000,0000,,Senhor, como você...?
+Dialogue: 0,0:06:18.40,0:06:21.70,fonte legenda,,0000,0000,0000,,Eu descobri que vocês\Ntem uma relação com Shen Long,
+Dialogue: 0,0:06:21.70,0:06:24.07,fonte legenda,,0000,0000,0000,,durante minha investigação. Por favor...
+Dialogue: 0,0:06:24.07,0:06:26.07,fonte legenda,,0000,0000,0000,,Esse é o meu maior desejo...!
+Dialogue: 0,0:06:26.07,0:06:30.41,fonte legenda,,0000,0000,0000,,Então, aquele escândalo antes\Nera só uma encenação para nos chamar?
+Dialogue: 0,0:06:30.41,0:06:32.90,fonte legenda,,0000,0000,0000,,Então vocês descobriram?
+Dialogue: 0,0:06:34.75,0:06:37.75,fonte legenda,,0000,0000,0000,,Velho, você não está\Ncontando uma mentira, não é?
+Dialogue: 0,0:06:37.75,0:06:39.42,fonte legenda,,0000,0000,0000,,É, também acha que é mentira?
+Dialogue: 0,0:06:39.42,0:06:42.09,fonte legenda,,0000,0000,0000,,Senhorita, continua pensando assim?
+Dialogue: 0,0:06:42.09,0:06:47.43,fonte legenda,,0000,0000,0000,,Não há tempo a perder. Se não nos\Napressarmos e revivermos o herói Tapion,
+Dialogue: 0,0:06:47.43,0:06:51.77,fonte legenda,,0000,0000,0000,,A Terra será destruída.
+Dialogue: 0,0:06:51.77,0:06:54.80,fonte legenda,,0000,0000,0000,,Não adianta.\NNão consigo ver o que há dentro.
+Dialogue: 0,0:06:54.80,0:06:57.97,fonte legenda,,0000,0000,0000,,Parece ser feito de algum\Ntipo de material especial.
+Dialogue: 0,0:07:05.71,0:07:08.05,fonte legenda,,0000,0000,0000,,Yow. Não consigo.
+Dialogue: 0,0:07:08.05,0:07:13.06,fonte legenda,,0000,0000,0000,,Se nem mesmo Goku consegue abrir, então\Neu acho que não é completamente mentira.
+Dialogue: 0,0:07:13.06,0:07:14.39,fonte legenda,,0000,0000,0000,,Esse cara é forte?
+Dialogue: 0,0:07:14.39,0:07:16.73,fonte legenda,,0000,0000,0000,,É claro. Ele é um herói, afinal de contas.
+Dialogue: 0,0:07:16.73,0:07:19.73,fonte legenda,,0000,0000,0000,,É mesmo? Tudo bem...
+Dialogue: 0,0:07:19.73,0:07:21.73,fonte legenda,,0000,0000,0000,,O que acham de\Nprocurarmos as Esferas do Dragão?
+Dialogue: 0,0:07:21.73,0:07:23.22,fonte legenda,,0000,0000,0000,,Certo.
+Dialogue: 0,0:07:27.74,0:07:30.74,fonte legenda,,0000,0000,0000,,Isso é uma dádiva dos deuses,\Nachá-los aqui na Terra...
+Dialogue: 0,0:07:30.74,0:07:34.41,fonte legenda,,0000,0000,0000,,Hein? Velho, quer dizer\Nque você não é da Terra?
+Dialogue: 0,0:07:34.41,0:07:37.57,fonte legenda,,0000,0000,0000,,I-I-Isso era só uma forma de expressão.
+Dialogue: 0,0:07:41.42,0:07:44.42,fonte legenda,,0000,0000,0000,,Certo, Goten!\NVamos nos apressar e achá-las!
+Dialogue: 0,0:07:44.42,0:07:47.75,fonte legenda,,0000,0000,0000,,Uhum! Eu quero me\Napressar e conhecer esse herói!
+Dialogue: 0,0:07:51.76,0:07:58.43,fonte legenda,,0000,0000,0000,,Diga, se a história dele é verdadeira,\Ncomo você acha que esse herói Tapion é?
+Dialogue: 0,0:07:58.43,0:07:59.10,fonte legenda,,0000,0000,0000,,Eu não sei.
+Dialogue: 0,0:07:59.10,0:08:01.87,fonte legenda,,0000,0000,0000,,Sou tão interessada em heróis!
+Dialogue: 0,0:08:06.04,0:08:09.53,fonte legenda,,0000,0000,0000,,Certo, eles sempre me deixam sozinho...
+Dialogue: 0,0:08:22.39,0:08:23.88,fonte legenda,,0000,0000,0000,,Aqui está!
+Dialogue: 0,0:08:27.40,0:08:29.89,fonte legenda,,0000,0000,0000,,Maravilha! Achei a Esfera de Uma Estrela!
+Dialogue: 0,0:08:40.41,0:08:42.74,fonte legenda,,0000,0000,0000,,Ah, lá está, lá está!
+Dialogue: 0,0:08:42.74,0:08:44.75,fonte legenda,,0000,0000,0000,,Então, como você vai pegá-la?
+Dialogue: 0,0:08:44.75,0:08:46.24,fonte legenda,,0000,0000,0000,,Assim!
+Dialogue: 0,0:09:01.70,0:09:03.19,fonte legenda,,0000,0000,0000,,Viu?
+Dialogue: 0,0:09:04.37,0:09:06.70,fonte legenda,,0000,0000,0000,,Certo, devemos ter todas agora.
+Dialogue: 0,0:09:12.71,0:09:14.20,fonte legenda,,0000,0000,0000,,Apareça, Shen Long!
+Dialogue: 0,0:09:25.05,0:09:28.39,fonte legenda,,0000,0000,0000,,M-Maravilhoso! Esse é...
+Dialogue: 0,0:09:28.39,0:09:31.06,fonte legenda,,0000,0000,0000,,...Shen Long?
+Dialogue: 0,0:09:31.06,0:09:35.06,fonte legenda,,0000,0000,0000,,Eu posso conceder qualquer desejo.
+Dialogue: 0,0:09:35.06,0:09:38.73,fonte legenda,,0000,0000,0000,,Agora, digam o seu desejo.
+Dialogue: 0,0:09:38.73,0:09:43.74,fonte legenda,,0000,0000,0000,,E-Eu gostaria que você\Nremovesse o selo do herói Tapion...
+Dialogue: 0,0:09:43.74,0:09:47.23,fonte legenda,,0000,0000,0000,,Isso é muito fácil.
+Dialogue: 0,0:09:54.42,0:09:58.58,fonte legenda,,0000,0000,0000,,Eu realizei o seu desejo. Adeus.
+Dialogue: 0,0:10:13.10,0:10:15.44,fonte legenda,,0000,0000,0000,,E-Espere, o que aconteceu?
+Dialogue: 0,0:10:15.44,0:10:17.60,fonte legenda,,0000,0000,0000,,Nada mudou, ou mudou?
+Dialogue: 0,0:10:22.78,0:10:23.78,fonte legenda,,0000,0000,0000,,Está girando!
+Dialogue: 0,0:10:23.78,0:10:25.27,fonte legenda,,0000,0000,0000,,Então é verdade, não é?
+Dialogue: 0,0:10:29.45,0:10:31.45,fonte legenda,,0000,0000,0000,,É uma linda melodia.
+Dialogue: 0,0:10:31.45,0:10:34.46,fonte legenda,,0000,0000,0000,,Entretanto, há algo de triste nela.
+Dialogue: 0,0:10:34.46,0:10:36.29,fonte legenda,,0000,0000,0000,,Aí vem ele, aí vem ele!
+Dialogue: 0,0:10:39.29,0:10:40.96,fonte legenda,,0000,0000,0000,,Ele está aqui!
+Dialogue: 0,0:10:53.14,0:10:53.81,fonte legenda,,0000,0000,0000,,Papai...
+Dialogue: 0,0:10:53.81,0:10:55.80,fonte legenda,,0000,0000,0000,,É um Ki incrível...
+Dialogue: 0,0:11:43.12,0:11:45.79,fonte legenda,,0000,0000,0000,,Então o que o velho disse...
+Dialogue: 0,0:11:45.79,0:11:47.96,fonte legenda,,0000,0000,0000,,...era verdade.
+Dialogue: 0,0:11:51.47,0:11:52.47,fonte legenda,,0000,0000,0000,,Incrível!
+Dialogue: 0,0:11:52.47,0:11:54.63,fonte legenda,,0000,0000,0000,,É um jovem bonito.
+Dialogue: 0,0:11:59.47,0:12:00.74,fonte legenda,,0000,0000,0000,,Para trás!
+Dialogue: 0,0:12:00.74,0:12:02.41,fonte legenda,,0000,0000,0000,,Legal!
+Dialogue: 0,0:12:02.41,0:12:04.75,fonte legenda,,0000,0000,0000,,Foi você que me reviveu?
+Dialogue: 0,0:12:04.75,0:12:09.42,fonte legenda,,0000,0000,0000,,Deve ter sido difícil passar aqueles\Nmilhares de anos num lugar tão apertado.
+Dialogue: 0,0:12:09.42,0:12:12.42,fonte legenda,,0000,0000,0000,,Quem te pediu?! Ponha-me de volta!
+Dialogue: 0,0:12:12.42,0:12:18.26,fonte legenda,,0000,0000,0000,,Agora é impossível. A caixa de\Nmúsica foi completamente destruída.
+Dialogue: 0,0:12:24.10,0:12:29.10,fonte legenda,,0000,0000,0000,,Agora, você finalmente está livre,\Nentão vamos tentar nos entender...
+Dialogue: 0,0:12:29.10,0:12:31.77,fonte legenda,,0000,0000,0000,,Por favor, não se aproxime.
+Dialogue: 0,0:12:31.77,0:12:35.78,fonte legenda,,0000,0000,0000,,Vocês fizeram uma coisa terrível!
+Dialogue: 0,0:12:35.78,0:12:37.27,fonte legenda,,0000,0000,0000,,Uma coisa terrível?
+Dialogue: 0,0:12:43.45,0:12:45.45,fonte legenda,,0000,0000,0000,,Eu quero ser como ele!
+Dialogue: 0,0:12:45.45,0:12:47.12,fonte legenda,,0000,0000,0000,,Do que está falando?
+Dialogue: 0,0:12:47.12,0:12:50.13,fonte legenda,,0000,0000,0000,,Um garoto que não agradece\Ndepois de ser revivido é horrível.
+Dialogue: 0,0:12:50.13,0:12:51.79,fonte legenda,,0000,0000,0000,,- Espere!\N- Ah, Trunks!
+Dialogue: 0,0:12:51.79,0:12:54.46,fonte legenda,,0000,0000,0000,,Não! Volte aqui!
+Dialogue: 0,0:12:54.46,0:12:56.13,fonte legenda,,0000,0000,0000,,O que acha?
+Dialogue: 0,0:12:56.13,0:12:58.12,fonte legenda,,0000,0000,0000,,Ele exala perigo, não é?
+Dialogue: 0,0:13:00.40,0:13:02.56,fonte legenda,,0000,0000,0000,,Eu não entendi...
+Dialogue: 0,0:13:19.75,0:13:22.76,fonte legenda,,0000,0000,0000,,Trunks-kun, é melhor não ir atrás dele.
+Dialogue: 0,0:13:22.76,0:13:26.09,fonte legenda,,0000,0000,0000,,Do que está falando? Ele é um herói!
+Dialogue: 0,0:13:26.09,0:13:28.76,fonte legenda,,0000,0000,0000,,Você não quer\Nouvir todas as suas histórias?
+Dialogue: 0,0:13:31.43,0:13:33.10,fonte legenda,,0000,0000,0000,,Mas ele disse para não se aproximarem.
+Dialogue: 0,0:13:33.10,0:13:34.76,fonte legenda,,0000,0000,0000,,É, mas...
+Dialogue: 0,0:13:39.27,0:13:40.94,fonte legenda,,0000,0000,0000,,Qual o problema?
+Dialogue: 0,0:13:41.78,0:13:43.78,fonte legenda,,0000,0000,0000,,Ele é um grande herói!
+Dialogue: 0,0:13:43.78,0:13:45.27,fonte legenda,,0000,0000,0000,,Ele é muito intenso.
+Dialogue: 0,0:13:53.46,0:13:57.13,fonte legenda,,0000,0000,0000,,Hein? Onde foi aquele velho?
+Dialogue: 0,0:13:57.13,0:13:59.46,fonte legenda,,0000,0000,0000,,Agora que você mencionou...
+Dialogue: 0,0:13:59.46,0:14:03.23,fonte legenda,,0000,0000,0000,,Ele provavelmente foi\Nflertar algumas garotas peitudas!
+Dialogue: 0,0:14:04.73,0:14:08.40,fonte legenda,,0000,0000,0000,,Ele não é como um\Ncerto velho sujo que eu conheço.
+Dialogue: 0,0:14:08.40,0:14:12.90,fonte legenda,,0000,0000,0000,,Se não for uma garota peituda,\Ntalvez uma mulher mais velha.
+Dialogue: 0,0:14:30.09,0:14:32.43,fonte legenda,,0000,0000,0000,,Huh? Eles acabaram...
+Dialogue: 0,0:14:32.43,0:14:33.76,fonte legenda,,0000,0000,0000,,Huh? Ah, achei um... e outro...
+Dialogue: 0,0:14:49.11,0:14:50.78,fonte legenda,,0000,0000,0000,,Hum, Irmãozão,
+Dialogue: 0,0:14:50.78,0:14:53.94,fonte legenda,,0000,0000,0000,,apenas deixaremos a carne aqui para você.
+Dialogue: 0,0:14:56.12,0:14:59.95,fonte legenda,,0000,0000,0000,,H-Hum, o tempero da minha mãe é muito bom.
+Dialogue: 0,0:15:02.39,0:15:04.73,fonte legenda,,0000,0000,0000,,Bem, voltaremos para casa agora.
+Dialogue: 0,0:15:04.73,0:15:07.89,fonte legenda,,0000,0000,0000,,Estarei de volta amanhã, ok?
+Dialogue: 0,0:15:08.73,0:15:11.06,fonte legenda,,0000,0000,0000,,Ei, o que estão fazendo?!\NApressem-se e andem!
+Dialogue: 0,0:15:14.40,0:15:15.89,fonte legenda,,0000,0000,0000,,O que foi isso?
+Dialogue: 0,0:15:21.74,0:15:23.23,fonte legenda,,0000,0000,0000,,Mas o quê...?
+Dialogue: 0,0:15:32.09,0:15:33.92,fonte legenda,,0000,0000,0000,,Isso é horrível!
+Dialogue: 0,0:15:38.09,0:15:41.10,fonte legenda,,0000,0000,0000,,É o Saiyamen!\NO Grande Saiyamen veio!
+Dialogue: 0,0:15:41.10,0:15:43.59,fonte legenda,,0000,0000,0000,,Certo, vamos deixá-los tomar conta disso.
+Dialogue: 0,0:15:48.10,0:15:49.76,fonte legenda,,0000,0000,0000,,O que é aquela coisa?!
+Dialogue: 0,0:16:04.39,0:16:06.38,fonte legenda,,0000,0000,0000,,O que é aquela coisa?!
+Dialogue: 0,0:16:14.06,0:16:15.56,fonte legenda,,0000,0000,0000,,O que é aquilo?!
+Dialogue: 0,0:16:15.56,0:16:18.73,fonte legenda,,0000,0000,0000,,Um fantasma com pernas?\NNão, é um fantasma com apenas pernas!
+Dialogue: 0,0:16:18.73,0:16:22.73,fonte legenda,,0000,0000,0000,,Esse pode ser o gigante\Nmalvado de que o velho falava.
+Dialogue: 0,0:16:23.40,0:16:26.07,fonte legenda,,0000,0000,0000,,Deve ser ele mesmo!\NGohan-kun, vamos fazer o de sempre!
+Dialogue: 0,0:16:26.07,0:16:27.74,fonte legenda,,0000,0000,0000,,Ãh? Você quer fazer aquilo?!
+Dialogue: 0,0:16:27.74,0:16:29.23,fonte legenda,,0000,0000,0000,,Não é óbvio?
+Dialogue: 0,0:16:31.08,0:16:35.75,fonte legenda,,0000,0000,0000,,Enquanto os Grandes Saiyamen estiverem aqui,\No mal não prosperará no nosso mundo!
+Dialogue: 0,0:16:35.75,0:16:37.92,fonte legenda,,0000,0000,0000,,Grande Saiyaman Número I...
+Dialogue: 0,0:16:37.92,0:16:39.25,fonte legenda,,0000,0000,0000,,...e Número II...
+Dialogue: 0,0:16:39.25,0:16:40.92,fonte legenda,,0000,0000,0000,,...como vocês pediram...
+Dialogue: 0,0:16:48.76,0:16:51.43,fonte legenda,,0000,0000,0000,,Ouçam a gente até o final!
+Dialogue: 0,0:16:56.10,0:16:58.11,fonte legenda,,0000,0000,0000,,Droga...!
+Dialogue: 0,0:16:58.11,0:17:01.54,fonte legenda,,0000,0000,0000,,Você está destruindo a cidade!\NPagará por isso!
+Dialogue: 0,0:17:05.88,0:17:07.71,fonte legenda,,0000,0000,0000,,Aqui vai!
+Dialogue: 0,0:17:14.39,0:17:16.22,fonte legenda,,0000,0000,0000,,Que tipo de besta é essa?!
+Dialogue: 0,0:17:18.73,0:17:20.06,fonte legenda,,0000,0000,0000,,Certo...!
+Dialogue: 0,0:17:21.40,0:17:22.89,fonte legenda,,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:37.91,0:17:40.42,fonte legenda,,0000,0000,0000,,Gohan-kun, acaba com ele!
+Dialogue: 0,0:17:40.42,0:17:45.09,fonte legenda,,0000,0000,0000,,Entendi! Ele fica sólido\Nmomentaneamente quando ataca!
+Dialogue: 0,0:17:45.09,0:17:46.25,fonte legenda,,0000,0000,0000,,Certo...!
+Dialogue: 0,0:18:26.39,0:18:27.88,fonte legenda,,0000,0000,0000,,Você conseguiu!
+Dialogue: 0,0:18:30.06,0:18:31.90,fonte legenda,,0000,0000,0000,,Não, ainda não.
+Dialogue: 0,0:18:35.74,0:18:37.23,fonte legenda,,0000,0000,0000,,Aquela melodia...
+Dialogue: 0,0:18:50.75,0:18:52.41,fonte legenda,,0000,0000,0000,,O monstro desapareceu!
+Dialogue: 0,0:19:02.70,0:19:03.69,fonte legenda,,0000,0000,0000,,Tapion...
+Dialogue: 0,0:19:09.70,0:19:11.54,fonte legenda,,0000,0000,0000,,Gohan-kun, olha lá!
+Dialogue: 0,0:19:46.41,0:19:48.74,fonte legenda,,0000,0000,0000,,I-Irmãozão, se quiser, pode usar isso.
+Dialogue: 0,0:19:48.74,0:19:50.23,fonte legenda,,0000,0000,0000,,Não se aproxime de mim!
+Dialogue: 0,0:19:51.75,0:19:54.75,fonte legenda,,0000,0000,0000,,Não fique bravo, estou indo.
+Dialogue: 0,0:19:54.75,0:19:57.42,fonte legenda,,0000,0000,0000,,Ah, você não comeu?
+Dialogue: 0,0:19:57.42,0:19:58.75,fonte legenda,,0000,0000,0000,,Suma!
+Dialogue: 0,0:19:58.75,0:20:00.24,fonte legenda,,0000,0000,0000,,C-Certo!
+Dialogue: 0,0:20:31.45,0:20:32.94,fonte legenda,,0000,0000,0000,,Ah, não!
+Dialogue: 0,0:21:45.13,0:21:48.79,fonte legenda,,0000,0000,0000,,O-O quê?! O que aconteceu?!
+Dialogue: 0,0:21:53.80,0:21:56.79,fonte legenda,,0000,0000,0000,,Ainda bem! Você está bem!
+Dialogue: 0,0:21:59.47,0:22:01.41,fonte legenda,,0000,0000,0000,,Eu já sei.
+Dialogue: 0,0:22:01.41,0:22:04.08,fonte legenda,,0000,0000,0000,,Eu vou deixar o café da manhã aqui, ok?
+Dialogue: 0,0:22:04.08,0:22:06.57,fonte legenda,,0000,0000,0000,,Tchau. Te trago mais depois.
+Dialogue: 0,0:22:10.42,0:22:14.09,fonte legenda,,0000,0000,0000,,Aparentemente, Trunks-kun\Ntem dado comida pra ele escondido.
+Dialogue: 0,0:22:14.09,0:22:17.76,fonte legenda,,0000,0000,0000,,Ah, é? Como o Trunks-kun é legal.
+Dialogue: 0,0:22:17.76,0:22:21.43,fonte legenda,,0000,0000,0000,,Ele sempre está com ciumes\Ndo Goten-kun que tem um irmão mais velho,
+Dialogue: 0,0:22:21.43,0:22:25.10,fonte legenda,,0000,0000,0000,,então talvez agora ele sinta\Ncomo se tivesse um irmão mais velho.
+Dialogue: 0,0:22:25.10,0:22:29.27,fonte legenda,,0000,0000,0000,,Eu sei como Trunks-kun se sente.\NSou filha única também, afinal de contas.
+Dialogue: 0,0:22:29.27,0:22:32.44,fonte legenda,,0000,0000,0000,,Mas vocês tem estado\Ntão tensos ultimamente.
+Dialogue: 0,0:22:32.44,0:22:35.60,fonte legenda,,0000,0000,0000,,É o poder de Trunks-kun que está tenso!
+Dialogue: 0,0:22:53.13,0:22:54.80,fonte legenda,,0000,0000,0000,,Não! Não!
+Dialogue: 0,0:22:54.80,0:22:57.46,fonte legenda,,0000,0000,0000,,Isso é do Irmãozão! Você não pode comer!
+Dialogue: 0,0:22:59.13,0:23:01.80,fonte legenda,,0000,0000,0000,,Ai, nossa...
+Dialogue: 0,0:23:02.74,0:23:06.40,fonte legenda,,0000,0000,0000,,Ok, Irmãozão, eu vou deixar\Nas coisas dessa noite aqui, ok?
+Dialogue: 0,0:23:09.08,0:23:11.41,fonte legenda,,0000,0000,0000,,O som da ocarina é lindo.
+Dialogue: 0,0:23:11.41,0:23:12.90,fonte legenda,,0000,0000,0000,,Toca algo mais.
+Dialogue: 0,0:23:15.08,0:23:16.57,fonte legenda,,0000,0000,0000,,De novo, não liga pra mim.
+Dialogue: 0,0:23:35.10,0:23:36.76,fonte legenda,,0000,0000,0000,,Garoto, me dê a ocarina!
+Dialogue: 0,0:23:41.78,0:23:43.11,fonte legenda,,0000,0000,0000,,Trunks, a ocarina!
+Dialogue: 0,0:23:43.11,0:23:45.45,fonte legenda,,0000,0000,0000,,- C-Certo!\N- Espere, garto!
+Dialogue: 0,0:23:45.45,0:23:50.94,fonte legenda,,0000,0000,0000,,Tapion não é nenhum herói!\NEle é o monstro que atacou a cidade!
+Dialogue: 0,0:23:53.12,0:23:55.46,fonte legenda,,0000,0000,0000,,Trunks, não deixe ele te enganar.
+Dialogue: 0,0:23:55.46,0:23:58.46,fonte legenda,,0000,0000,0000,,Se lhe der a ocarina, então toda a Terra,
+Dialogue: 0,0:23:58.46,0:24:01.73,fonte legenda,,0000,0000,0000,,pra não falar do universo,\Nserá completamente destruída!
+Dialogue: 0,0:24:01.73,0:24:04.40,fonte legenda,,0000,0000,0000,,Agora, entregue-a para mim.
+Dialogue: 0,0:24:04.40,0:24:07.23,fonte legenda,,0000,0000,0000,,Trunks, confie em mim.
+Dialogue: 0,0:24:09.74,0:24:10.90,fonte legenda,,0000,0000,0000,,Vamos...
+Dialogue: 0,0:24:25.75,0:24:30.25,fonte legenda,,0000,0000,0000,,Isso mesmo, apresse-se e me dê a ocarina.
+Dialogue: 0,0:24:35.76,0:24:37.25,fonte legenda,,0000,0000,0000,,Irmãozão!
+Dialogue: 0,0:24:38.43,0:24:39.92,fonte legenda,,0000,0000,0000,,O-O quê?!
+Dialogue: 0,0:24:47.11,0:24:49.27,fonte legenda,,0000,0000,0000,,Irmãozão!
+Dialogue: 0,0:24:52.45,0:24:54.78,fonte legenda,,0000,0000,0000,,Já sei... Estou indo...
+Dialogue: 0,0:24:57.12,0:24:59.28,fonte legenda,,0000,0000,0000,,Estou com fome.
+Dialogue: 0,0:25:02.72,0:25:04.21,fonte legenda,,0000,0000,0000,,Quer comer comigo?
+Dialogue: 0,0:25:08.40,0:25:11.73,fonte legenda,,0000,0000,0000,,Isso é muito delicioso! Experimente!
+Dialogue: 0,0:25:12.73,0:25:16.74,fonte legenda,,0000,0000,0000,,Trunks trouxe o seu\N"irmãozão" para passar a noite.
+Dialogue: 0,0:25:16.74,0:25:21.08,fonte legenda,,0000,0000,0000,,Não é incrível?\NQuer dizer, ser amigo de um herói...
+Dialogue: 0,0:25:21.08,0:25:23.24,fonte legenda,,0000,0000,0000,,Ele está totalmente feliz.
+Dialogue: 0,0:25:28.42,0:25:31.75,fonte legenda,,0000,0000,0000,,Viu? Viu? Viu? Esse é incrível!
+Dialogue: 0,0:25:31.75,0:25:35.42,fonte legenda,,0000,0000,0000,,Eles me compraram\Nesse de aniversário ano passado. Olhe!
+Dialogue: 0,0:25:35.42,0:25:43.10,fonte legenda,,0000,0000,0000,,Bem, não é legal? E olhe,\Nquando você faz isso aqui, isso acontece!
+Dialogue: 0,0:25:43.10,0:25:45.10,fonte legenda,,0000,0000,0000,,Agora, Irmãozão, tenta você.
+Dialogue: 0,0:25:45.10,0:25:48.09,fonte legenda,,0000,0000,0000,,E na verdade, depois disso, quer saber?
+Dialogue: 0,0:25:51.44,0:25:56.11,fonte legenda,,0000,0000,0000,,Diga, Irmãozão, você tem algum irmão?
+Dialogue: 0,0:25:56.11,0:25:58.45,fonte legenda,,0000,0000,0000,,Sim, um irmão mais novo.
+Dialogue: 0,0:25:58.45,0:26:01.55,fonte legenda,,0000,0000,0000,,Uau, que legal! Que tipo de garoto ele é?
+Dialogue: 0,0:26:01.55,0:26:04.72,fonte legenda,,0000,0000,0000,,Ele era gentil, como você, Trunks.
+Dialogue: 0,0:26:04.72,0:26:08.06,fonte legenda,,0000,0000,0000,,Então, me conta do seu planeta, Irmãozão.
+Dialogue: 0,0:26:08.06,0:26:09.72,fonte legenda,,0000,0000,0000,,Claro.
+Dialogue: 0,0:26:09.72,0:26:15.40,fonte legenda,,0000,0000,0000,,Meu lar é um lugar chamado\NPlaneta Conuts, na Galáxia do Sul.
+Dialogue: 0,0:26:15.40,0:26:21.40,fonte legenda,,0000,0000,0000,,Era um planeta bonito, que, como a\NTerra, era abençoado com vegetação e água.
+Dialogue: 0,0:26:21.40,0:26:27.07,fonte legenda,,0000,0000,0000,,Mas então, um dia, surgiu um\Nmago que invocou esse fantasma...
+Dialogue: 0,0:26:27.07,0:26:31.41,fonte legenda,,0000,0000,0000,,...chamado Hildegarn, que nos atacou.
+Dialogue: 0,0:26:31.41,0:26:36.25,fonte legenda,,0000,0000,0000,,Pessoas foram mortas,\Ne cidades foram demolidas e destruidas.
+Dialogue: 0,0:26:44.09,0:26:46.76,fonte legenda,,0000,0000,0000,,E quanto todos já haviam aceitado a morte,
+Dialogue: 0,0:26:46.76,0:26:48.59,fonte legenda,,0000,0000,0000,,um milagre aconteceu.
+Dialogue: 0,0:27:11.05,0:27:12.72,fonte legenda,,0000,0000,0000,,Minoshia...
+Dialogue: 0,0:27:12.72,0:27:15.55,fonte legenda,,0000,0000,0000,,você foi morto durante os ataques.
+Dialogue: 0,0:27:20.06,0:27:22.72,fonte legenda,,0000,0000,0000,,Cuide-se, Trunks.
+Dialogue: 0,0:27:32.07,0:27:34.06,fonte legenda,,0000,0000,0000,,Onde você está indo?
+Dialogue: 0,0:27:36.08,0:27:40.08,fonte legenda,,0000,0000,0000,,Se quiser, é bem-vindo\Npara ficar conosco daqui pra frente.
+Dialogue: 0,0:27:40.08,0:27:43.41,fonte legenda,,0000,0000,0000,,Por favor, fique a vontade.\NTrunks ficaria muito feliz, afinal.
+Dialogue: 0,0:27:44.75,0:27:46.42,fonte legenda,,0000,0000,0000,,Não posso fazer isso.
+Dialogue: 0,0:27:46.42,0:27:47.91,fonte legenda,,0000,0000,0000,,Por quê?
+Dialogue: 0,0:27:50.09,0:27:55.43,fonte legenda,,0000,0000,0000,,Há um fantasma preso dentro do meu corpo.
+Dialogue: 0,0:27:55.43,0:27:57.77,fonte legenda,,0000,0000,0000,,Hein? Um fantasma?
+Dialogue: 0,0:27:57.77,0:28:01.86,fonte legenda,,0000,0000,0000,,Infelizmente não sei do\Nque você está falando. Me explica.
+Dialogue: 0,0:28:05.04,0:28:07.71,fonte legenda,,0000,0000,0000,,O que é esse "fantasma"?
+Dialogue: 0,0:28:07.71,0:28:09.38,fonte legenda,,0000,0000,0000,,Certo...
+Dialogue: 0,0:28:09.38,0:28:12.54,fonte legenda,,0000,0000,0000,,Havia uma seita de magos\Nque vieram de algum lugar...
+Dialogue: 0,0:28:16.38,0:28:21.72,fonte legenda,,0000,0000,0000,,Eles pegaram o corpo espiritual do totem\Nque absorveu todo o mal do Planeta Conuts,
+Dialogue: 0,0:28:21.72,0:28:24.71,fonte legenda,,0000,0000,0000,,encheram-no de energias malignas.
+Dialogue: 0,0:28:25.39,0:28:29.89,fonte legenda,,0000,0000,0000,,e transformaram-no no fantasma Hildegarn.
+Dialogue: 0,0:28:43.08,0:28:47.75,fonte legenda,,0000,0000,0000,,Aqueles magos deviam ter\Npoderes demoniacos incríveis, não é?
+Dialogue: 0,0:28:47.75,0:28:52.09,fonte legenda,,0000,0000,0000,,Sim. O velho Hoi era um deles.
+Dialogue: 0,0:28:52.09,0:28:55.42,fonte legenda,,0000,0000,0000,,Então fomos todos completamente\Nenganados por aquele velho.
+Dialogue: 0,0:28:55.42,0:28:59.09,fonte legenda,,0000,0000,0000,,Mas por que o fantasma\Nestá dentro do seu corpo?
+Dialogue: 0,0:28:59.09,0:29:05.03,fonte legenda,,0000,0000,0000,,É porque havia uma espada lendária e\Numa ocarina que podiam controlar o totem.
+Dialogue: 0,0:29:05.03,0:29:07.03,fonte legenda,,0000,0000,0000,,Está falando desses dois objetos?
+Dialogue: 0,0:29:07.03,0:29:08.52,fonte legenda,,0000,0000,0000,,Sim.
+Dialogue: 0,0:29:09.70,0:29:11.86,fonte legenda,,0000,0000,0000,,Esses itens nos foram dados por Deus.
+Dialogue: 0,0:29:15.38,0:29:18.71,fonte legenda,,0000,0000,0000,,Enquanto o poder do fantasma\Nera controlado com a ocarina,
+Dialogue: 0,0:29:18.71,0:29:24.39,fonte legenda,,0000,0000,0000,,um sacerdote que estava a serviço\Nde Deus separou o corpo do fantasma...
+Dialogue: 0,0:29:24.39,0:29:27.88,fonte legenda,,0000,0000,0000,,...em uma parte superior e uma inferior.
+Dialogue: 0,0:29:53.75,0:29:57.75,fonte legenda,,0000,0000,0000,,E então, a metade superior de\NHildegarn foi trancada no meu corpo,
+Dialogue: 0,0:29:57.75,0:30:00.08,fonte legenda,,0000,0000,0000,,e a metade inferior foi\Ntrancada no corpo do meu irmão.
+Dialogue: 0,0:30:03.42,0:30:05.59,fonte legenda,,0000,0000,0000,,A Paz retornou ao Planeta Conuts.
+Dialogue: 0,0:30:08.43,0:30:14.44,fonte legenda,,0000,0000,0000,,Então, meu irmão\Ne eu fomos aclamados heróis.
+Dialogue: 0,0:30:14.44,0:30:18.11,fonte legenda,,0000,0000,0000,,Mas você estava dentro\Ndaquela caixa de música, não é?
+Dialogue: 0,0:30:18.11,0:30:26.11,fonte legenda,,0000,0000,0000,,Os magos tentaram recuperar o fantasma,\Ne começaram a ir atrás de nós. Então...
+Dialogue: 0,0:30:26.11,0:30:29.12,fonte legenda,,0000,0000,0000,,...para selar o fantasma para sempre,
+Dialogue: 0,0:30:29.12,0:30:34.28,fonte legenda,,0000,0000,0000,,nós mesmos fomos selados\Ndentro daquelas caixas de música.
+Dialogue: 0,0:30:39.46,0:30:41.80,fonte legenda,,0000,0000,0000,,Entretanto, com nós\Ndois próximos um do outro,
+Dialogue: 0,0:30:41.80,0:30:46.80,fonte legenda,,0000,0000,0000,,a parte superior e a parte inferior\Nse corresponderam, tentando a reunião.
+Dialogue: 0,0:30:46.80,0:30:49.47,fonte legenda,,0000,0000,0000,,Para não permitir que o fantasma revivesse,
+Dialogue: 0,0:30:49.47,0:30:53.81,fonte legenda,,0000,0000,0000,,nós dois fomos enviados em\Nnaves para galáxias diferentes.
+Dialogue: 0,0:30:53.81,0:30:58.15,fonte legenda,,0000,0000,0000,,Entretanto, Hoi quer fazer\Ncom que todo o universo seja dele,
+Dialogue: 0,0:30:58.15,0:31:01.08,fonte legenda,,0000,0000,0000,,então ele localizou\Nas duas caixas de música.
+Dialogue: 0,0:31:01.08,0:31:03.42,fonte legenda,,0000,0000,0000,,Onde está o seu irmão?
+Dialogue: 0,0:31:03.42,0:31:05.42,fonte legenda,,0000,0000,0000,,Ele provavelmente já foi morto.
+Dialogue: 0,0:31:05.42,0:31:08.42,fonte legenda,,0000,0000,0000,,Não podemos deixar Hoi se sair bem dessa.
+Dialogue: 0,0:31:08.42,0:31:11.09,fonte legenda,,0000,0000,0000,,Enquanto eu estiver\Ncom a parte superior trancada,
+Dialogue: 0,0:31:11.09,0:31:14.09,fonte legenda,,0000,0000,0000,,Hildegarn não poderá\Nreviver em sua forma completa.
+Dialogue: 0,0:31:14.09,0:31:17.10,fonte legenda,,0000,0000,0000,,Então você não dormiu\Ndurante todo esse tempo livre?
+Dialogue: 0,0:31:17.10,0:31:19.10,fonte legenda,,0000,0000,0000,,N-Não.
+Dialogue: 0,0:31:19.10,0:31:22.44,fonte legenda,,0000,0000,0000,,Tudo bem, vamos cuidar disso.
+Dialogue: 0,0:31:22.44,0:31:24.77,fonte legenda,,0000,0000,0000,,Tudo que tenho que fazer é\Ncriar algo como essa caixa de música,
+Dialogue: 0,0:31:24.77,0:31:27.11,fonte legenda,,0000,0000,0000,,para manter esse poder sob controle, não é?
+Dialogue: 0,0:31:27.11,0:31:29.78,fonte legenda,,0000,0000,0000,,V-Você pode fazer isso?
+Dialogue: 0,0:31:29.78,0:31:34.45,fonte legenda,,0000,0000,0000,,Ainda não joguei fora a caixa de\Nmúsica quebrada, então acho que posso.
+Dialogue: 0,0:31:34.45,0:31:37.12,fonte legenda,,0000,0000,0000,,Por favor, faça isso. Eu imploro!
+Dialogue: 0,0:31:37.12,0:31:40.12,fonte legenda,,0000,0000,0000,,Pode deixar. Agüente até eu terminar, ok?
+Dialogue: 0,0:31:40.12,0:31:41.28,fonte legenda,,0000,0000,0000,,Sim.
+Dialogue: 0,0:31:45.79,0:31:47.28,fonte legenda,,0000,0000,0000,,Que legal!
+Dialogue: 0,0:31:50.80,0:31:52.29,fonte legenda,,0000,0000,0000,,Já está pronta!
+Dialogue: 0,0:31:54.47,0:31:57.14,fonte legenda,,0000,0000,0000,,O quarto de Tapion!
+Dialogue: 0,0:31:57.14,0:31:58.30,fonte legenda,,0000,0000,0000,,É sério?!
+Dialogue: 0,0:32:00.41,0:32:06.08,fonte legenda,,0000,0000,0000,,Aqui dentro é semelhante à sua\Ncaixa de música. Entre e confira.
+Dialogue: 0,0:32:06.08,0:32:08.91,fonte legenda,,0000,0000,0000,,Você pode entrar aí e dormir\Nsem ter que se preocupar.
+Dialogue: 0,0:32:10.42,0:32:11.91,fonte legenda,,0000,0000,0000,,Muito Obrigado!
+Dialogue: 0,0:32:37.11,0:32:42.28,fonte legenda,,0000,0000,0000,,Assim Hildegarn estiver\Ncompleto, isso não será nada!
+Dialogue: 0,0:32:43.12,0:32:47.39,fonte legenda,,0000,0000,0000,,Vou ter o universo inteiro em\Nminhas mãos, começando pela Terra!
+Dialogue: 0,0:33:13.41,0:33:14.90,fonte legenda,,0000,0000,0000,,O quê?!
+Dialogue: 0,0:33:24.42,0:33:28.42,fonte legenda,,0000,0000,0000,,É isso mesmo? Então\Nessa é a história, afinal?
+Dialogue: 0,0:33:37.77,0:33:39.11,fonte legenda,,0000,0000,0000,,Irmãozão!
+Dialogue: 0,0:33:39.11,0:33:40.11,fonte legenda,,0000,0000,0000,,O que aconteceu com você?
+Dialogue: 0,0:33:40.11,0:33:42.44,fonte legenda,,0000,0000,0000,,Onde está Hildegarn?
+Dialogue: 0,0:33:42.44,0:33:46.11,fonte legenda,,0000,0000,0000,,Eu de alguma maneira consegui\Nconter sua parte superior no meu corpo,
+Dialogue: 0,0:33:46.11,0:33:49.12,fonte legenda,,0000,0000,0000,,mas a parte inferior\Nestá atacando a cidade!
+Dialogue: 0,0:33:49.12,0:33:50.12,fonte legenda,,0000,0000,0000,,O quê?!
+Dialogue: 0,0:33:50.12,0:33:53.79,fonte legenda,,0000,0000,0000,,O poder atraindo as partes superior e\Ninferior entre si ficou mais forte,
+Dialogue: 0,0:33:53.79,0:33:57.46,fonte legenda,,0000,0000,0000,,e não há mais nada que eu possa fazer!
+Dialogue: 0,0:33:57.46,0:33:59.13,fonte legenda,,0000,0000,0000,,Irmãozão!
+Dialogue: 0,0:33:59.13,0:34:01.40,fonte legenda,,0000,0000,0000,,Eu vou criar algo ainda mais resistente!
+Dialogue: 0,0:34:01.40,0:34:03.06,fonte legenda,,0000,0000,0000,,É muito tarde agora!
+Dialogue: 0,0:34:03.06,0:34:09.56,fonte legenda,,0000,0000,0000,,A-Agora, enquanto ainda podem, por favor,\Nvocês tem que me matar, e Hildegarn comigo!
+Dialogue: 0,0:34:12.74,0:34:14.23,fonte legenda,,0000,0000,0000,,Irmãozão!
+Dialogue: 0,0:34:18.41,0:34:21.75,fonte legenda,,0000,0000,0000,,- Agora! Depressa!\N- Não vou permitir que façam isso!
+Dialogue: 0,0:34:37.76,0:34:39.77,fonte legenda,,0000,0000,0000,,Trunks!
+Dialogue: 0,0:34:39.77,0:34:41.44,fonte legenda,,0000,0000,0000,,Irmãozão, toque!
+Dialogue: 0,0:34:41.44,0:34:42.93,fonte legenda,,0000,0000,0000,,Certo!
+Dialogue: 0,0:34:48.78,0:34:50.27,fonte legenda,,0000,0000,0000,,Irmãozão!
+Dialogue: 0,0:35:36.76,0:35:38.76,fonte legenda,,0000,0000,0000,,Seu corpo...!
+Dialogue: 0,0:35:38.76,0:35:40.09,fonte legenda,,0000,0000,0000,,Está reunido!
+Dialogue: 0,0:35:42.76,0:35:45.10,fonte legenda,,0000,0000,0000,,Depois de um milênio,
+Dialogue: 0,0:35:45.10,0:35:49.44,fonte legenda,,0000,0000,0000,,o fantasma Hildegarn está\Nagora completamente revivido!
+Dialogue: 0,0:35:49.44,0:35:55.60,fonte legenda,,0000,0000,0000,,Agora, sugue quanta energia\Ndos terráqueos você quiser!
+Dialogue: 0,0:35:58.11,0:35:59.27,fonte legenda,,0000,0000,0000,,Droga!
+Dialogue: 0,0:36:23.74,0:36:25.23,fonte legenda,,0000,0000,0000,,Irmãozão!
+Dialogue: 0,0:36:26.41,0:36:29.74,fonte legenda,,0000,0000,0000,,Essa coisa não vai adiantar!
+Dialogue: 0,0:36:29.74,0:36:31.08,fonte legenda,,0000,0000,0000,,Impossível!
+Dialogue: 0,0:36:31.08,0:36:36.07,fonte legenda,,0000,0000,0000,,Contemplem o poder do\Ncompleto e restaurado Hildegarn!
+Dialogue: 0,0:36:39.09,0:36:40.75,fonte legenda,,0000,0000,0000,,Você terá que me enfrentar!
+Dialogue: 0,0:36:43.76,0:36:45.25,fonte legenda,,0000,0000,0000,,Huh?
+Dialogue: 0,0:36:47.76,0:36:49.25,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:36:53.10,0:36:55.44,fonte legenda,,0000,0000,0000,,Deixe com a gente daqui pra frente, ok?
+Dialogue: 0,0:36:55.44,0:36:58.10,fonte legenda,,0000,0000,0000,,Irmãozão, não saia daqui.
+Dialogue: 0,0:36:58.10,0:37:00.10,fonte legenda,,0000,0000,0000,,Trunks!
+Dialogue: 0,0:37:05.05,0:37:07.38,fonte legenda,,0000,0000,0000,,Não vamos deixar\Nvocês se sairem bem dessa!
+Dialogue: 0,0:37:16.06,0:37:18.55,fonte legenda,,0000,0000,0000,,Seu poder e sua velocidade\Nsubiram a outro nível!
+Dialogue: 0,0:37:27.73,0:37:29.22,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:37:42.42,0:37:44.91,fonte legenda,,0000,0000,0000,,Não consigo atingir sua forma sólida!
+Dialogue: 0,0:37:56.43,0:38:00.37,fonte legenda,,0000,0000,0000,,Destrua a casa de outra pessoa, ouviu?!
+Dialogue: 0,0:38:00.37,0:38:03.04,fonte legenda,,0000,0000,0000,,Estou de mau humor hoje!
+Dialogue: 0,0:38:03.04,0:38:07.20,fonte legenda,,0000,0000,0000,,Não chegue muito perto, ou se queimará!
+Dialogue: 0,0:38:46.41,0:38:47.90,fonte legenda,,0000,0000,0000,,Maldição!
+Dialogue: 0,0:38:58.76,0:39:01.69,fonte legenda,,0000,0000,0000,,Peguei muito leve... com ele...
+Dialogue: 0,0:39:04.36,0:39:06.20,fonte legenda,,0000,0000,0000,,Vegeta!
+Dialogue: 0,0:39:08.70,0:39:11.19,fonte legenda,,0000,0000,0000,,- Papai!\N- Papai!
+Dialogue: 0,0:39:19.05,0:39:21.04,fonte legenda,,0000,0000,0000,,Goten, Fusão!
+Dialogue: 0,0:39:23.05,0:39:24.05,fonte legenda,,0000,0000,0000,,Certo...!
+Dialogue: 0,0:39:24.05,0:39:26.72,LEGENDA PARA PODERES,,0000,0000,0000,,FUSÃO!
+Dialogue: 0,0:39:26.72,0:39:28.21,LEGENDA PARA PODERES,,0000,0000,0000,,HA!
+Dialogue: 0,0:39:30.72,0:39:34.22,fonte legenda,,0000,0000,0000,,Yay! Super Saiya-jin 3,\Npronto para acabar com você!
+Dialogue: 0,0:39:43.07,0:39:46.91,fonte legenda,,0000,0000,0000,,Ei, ei, monstro! Agora será o seu fim!
+Dialogue: 0,0:39:46.91,0:39:51.07,fonte legenda,,0000,0000,0000,,Gotenks-sama vai te mandar\Npara ver Enma-sama no inferno!
+Dialogue: 0,0:40:04.42,0:40:08.26,fonte legenda,,0000,0000,0000,,Agora! Mísseis Morra-Morra Contínuos!
+Dialogue: 0,0:40:24.11,0:40:30.12,fonte legenda,,0000,0000,0000,,Hmm? Já terminou?\NPuxa, que decepção.
+Dialogue: 0,0:40:30.12,0:40:32.45,fonte legenda,,0000,0000,0000,,O que estão fazendo?!\NApressem-se e acabem com ele!
+Dialogue: 0,0:40:32.45,0:40:34.78,fonte legenda,,0000,0000,0000,,Ok, ok...
+Dialogue: 0,0:40:59.48,0:41:00.91,fonte legenda,,0000,0000,0000,,N-Não pode ser...!
+Dialogue: 0,0:41:06.42,0:41:07.91,fonte legenda,,0000,0000,0000,,Só pode estar brincando...!
+Dialogue: 0,0:41:21.77,0:41:23.60,fonte legenda,,0000,0000,0000,,Goten! Trunks!
+Dialogue: 0,0:41:27.11,0:41:29.10,fonte legenda,,0000,0000,0000,,Gohan-kun!
+Dialogue: 0,0:41:43.46,0:41:45.29,fonte legenda,,0000,0000,0000,,Videl-san...
+Dialogue: 0,0:42:00.41,0:42:03.41,fonte legenda,,0000,0000,0000,,Que poder incrível!\NEle realmente é um monstro!
+Dialogue: 0,0:42:03.41,0:42:04.90,fonte legenda,,0000,0000,0000,,Maldição!
+Dialogue: 0,0:42:15.42,0:42:16.91,fonte legenda,,0000,0000,0000,,Ah, droga!
+Dialogue: 0,0:42:33.44,0:42:36.93,fonte legenda,,0000,0000,0000,,Todos os nossos ataques\Nsão bloqueados por ele!
+Dialogue: 0,0:42:46.12,0:42:51.12,fonte legenda,,0000,0000,0000,,Droga... Não importa\Nquanto poder tenhamos...
+Dialogue: 0,0:42:51.12,0:42:53.79,fonte legenda,,0000,0000,0000,,...não servem contra ele...
+Dialogue: 0,0:42:59.80,0:43:03.74,fonte legenda,,0000,0000,0000,,Destrua todo o universo!
+Dialogue: 0,0:43:03.74,0:43:08.07,fonte legenda,,0000,0000,0000,,Tudo se tornará\Npoder para você, Hildegarn!
+Dialogue: 0,0:43:22.42,0:43:26.26,fonte legenda,,0000,0000,0000,,Se isso é um pesadelo, então me acordem...
+Dialogue: 0,0:43:30.76,0:43:31.92,fonte legenda,,0000,0000,0000,,Irmãozão...!
+Dialogue: 0,0:43:42.78,0:43:46.94,fonte legenda,,0000,0000,0000,,Seu idiota! Você acha que essa\Ncoisa funcionará a esse ponto?!
+Dialogue: 0,0:43:53.79,0:43:55.28,fonte legenda,,0000,0000,0000,,O quê?!
+Dialogue: 0,0:44:05.73,0:44:07.73,fonte legenda,,0000,0000,0000,,Um herói...
+Dialogue: 0,0:44:07.73,0:44:10.73,fonte legenda,,0000,0000,0000,,O irmãozão é um herói!
+Dialogue: 0,0:44:11.40,0:44:15.07,fonte legenda,,0000,0000,0000,,Não posso deixar esse\Nplaneta se prejudicar também.
+Dialogue: 0,0:44:17.74,0:44:23.91,fonte legenda,,0000,0000,0000,,Até quando vai se alimentar do\Nsofrimento dos outros, até ter o suficiente?
+Dialogue: 0,0:44:27.75,0:44:29.24,fonte legenda,,0000,0000,0000,,Impossível!
+Dialogue: 0,0:44:38.43,0:44:39.77,fonte legenda,,0000,0000,0000,,Você conseguiu!
+Dialogue: 0,0:44:39.77,0:44:41.63,fonte legenda,,0000,0000,0000,,Você conseguiu, irmãozão!
+Dialogue: 0,0:44:45.77,0:44:48.11,fonte legenda,,0000,0000,0000,,Trunks...
+Dialogue: 0,0:44:48.11,0:44:51.94,fonte legenda,,0000,0000,0000,,Mate-me, e Hildegarn comigo!
+Dialogue: 0,0:44:52.45,0:44:54.78,fonte legenda,,0000,0000,0000,,Você tem que proteger a Terra!
+Dialogue: 0,0:44:54.78,0:44:56.12,fonte legenda,,0000,0000,0000,,E-Eu não posso fazer isso!
+Dialogue: 0,0:44:56.12,0:44:59.61,fonte legenda,,0000,0000,0000,,Mate-me! Você quer\Nser um herói também, não quer?!
+Dialogue: 0,0:45:02.06,0:45:03.72,fonte legenda,,0000,0000,0000,,E-Eu não posso!
+Dialogue: 0,0:45:03.72,0:45:07.73,fonte legenda,,0000,0000,0000,,Trunks, se isso continuar,\Na Terra será destruída.
+Dialogue: 0,0:45:07.73,0:45:12.07,fonte legenda,,0000,0000,0000,,Por favor, me deixe morrer como um herói!
+Dialogue: 0,0:45:12.07,0:45:16.07,fonte legenda,,0000,0000,0000,,Se ele reviver mais uma vez,\Nnão haverá como pará-lo.
+Dialogue: 0,0:45:16.07,0:45:17.56,fonte legenda,,0000,0000,0000,,Por favor!
+Dialogue: 0,0:45:33.09,0:45:36.92,fonte legenda,,0000,0000,0000,,Obrigado. Foi um prazer conhecê-lo.
+Dialogue: 0,0:45:44.76,0:45:46.93,fonte legenda,,0000,0000,0000,,P-Pare!
+Dialogue: 0,0:45:56.11,0:45:57.77,fonte legenda,,0000,0000,0000,,Irmãozão!
+Dialogue: 0,0:46:07.05,0:46:14.55,fonte legenda,,0000,0000,0000,,Idiota! Você não tem poder para\Nconter Hildegarn na sua forma completa!
+Dialogue: 0,0:46:29.08,0:46:30.74,fonte legenda,,0000,0000,0000,,Acabe com eles!
+Dialogue: 0,0:46:52.43,0:46:56.93,fonte legenda,,0000,0000,0000,,Maldito, você não vai se safar dessa!
+Dialogue: 0,0:47:15.72,0:47:20.39,fonte legenda,,0000,0000,0000,,Trunks, fique fora disso!\NEu vou derrotá-lo!
+Dialogue: 0,0:47:21.39,0:47:24.40,fonte legenda,,0000,0000,0000,,Papai! Sua fraqueza é...!
+Dialogue: 0,0:47:24.40,0:47:26.73,fonte legenda,,0000,0000,0000,,Eu já sei!
+Dialogue: 0,0:47:26.73,0:47:31.23,fonte legenda,,0000,0000,0000,,Só posso acertá-lo durante os instantes\Nem que ele fica sólido, enquanto ataca!
+Dialogue: 0,0:47:36.08,0:47:38.24,fonte legenda,,0000,0000,0000,,Isso não vai funcionar.
+Dialogue: 0,0:47:38.41,0:47:42.58,fonte legenda,,0000,0000,0000,,Esse tipo de soco não é de nada!\NLute com toda a sua força!
+Dialogue: 0,0:47:45.42,0:47:49.25,fonte legenda,,0000,0000,0000,,Ei, qual é o problema?\NVenha me pegar!
+Dialogue: 0,0:47:57.43,0:47:59.42,fonte legenda,,0000,0000,0000,,Se eu não fizer isso...
+Dialogue: 0,0:48:02.37,0:48:07.70,fonte legenda,,0000,0000,0000,,Se eu não fizer isso...
+Dialogue: 0,0:48:09.04,0:48:11.20,fonte legenda,,0000,0000,0000,,...quem fará?!
+Dialogue: 0,0:48:19.72,0:48:21.21,LEGENDA PARA PODERES,,0000,0000,0000,,GOLPE DO DRAGÃO!
+Dialogue: 0,0:48:58.09,0:48:59.75,fonte legenda,,0000,0000,0000,,Conseguiu!
+Dialogue: 0,0:49:12.04,0:49:16.04,fonte legenda,,0000,0000,0000,,É minha culpa que tanta\Ngente inocente tenha morrido.
+Dialogue: 0,0:49:16.04,0:49:20.21,fonte legenda,,0000,0000,0000,,Se eu ao menos tivesse poder\Nde controlar Hildegarn completamente...
+Dialogue: 0,0:49:22.05,0:49:28.05,fonte legenda,,0000,0000,0000,,Não se preocupe. Pediremos a Shen Long\Nque ressucite aqueles que foram mortos.
+Dialogue: 0,0:49:28.05,0:49:32.73,fonte legenda,,0000,0000,0000,,Aí está. Agora você pode\Nvoltar mil anos atrás, para seu tempo.
+Dialogue: 0,0:49:32.73,0:49:34.73,fonte legenda,,0000,0000,0000,,O-Obrigado.
+Dialogue: 0,0:49:34.73,0:49:38.72,fonte legenda,,0000,0000,0000,,Puxa, e eu tinha conseguido\Nfinalmente um irmãozão.
+Dialogue: 0,0:49:39.26,0:49:41.40,fonte legenda,,0000,0000,0000,,Agora que ele tem a\Nmáquina, ele pode vir te visitar.
+Dialogue: 0,0:49:41.40,0:49:43.07,fonte legenda,,0000,0000,0000,,Ah, é verdade!
+Dialogue: 0,0:49:43.07,0:49:44.23,fonte legenda,,0000,0000,0000,,Trunks!
+Dialogue: 0,0:49:46.74,0:49:48.07,fonte legenda,,0000,0000,0000,,Você está me dando ela?
+Dialogue: 0,0:49:48.07,0:49:52.75,fonte legenda,,0000,0000,0000,,Sim. Não preciso\Nmais dela, afinal de contas.
+Dialogue: 0,0:49:52.75,0:49:56.08,fonte legenda,,0000,0000,0000,,- Que maravilha! Yay! Yay!\N- Que legal!
+Dialogue: 0,0:49:56.08,0:49:58.57,fonte legenda,,0000,0000,0000,,Ok, então, todos, se cuidem!
+Dialogue: 0,0:50:11.43,0:50:17.10,legenda para abertura e encerramento,,0000,0000,0000,,Esse mundo azul
+Dialogue: 0,0:50:17.10,0:50:27.27,legenda para abertura e encerramento,,0000,0000,0000,,agora brilha, cerdado de amor.
+Dialogue: 0,0:50:30.12,0:50:33.12,legenda para abertura e encerramento,,0000,0000,0000,,Eu não mentiria pra você!
+Dialogue: 0,0:50:33.12,0:50:43.46,legenda para abertura e encerramento,,0000,0000,0000,,Eu não vou ficar parado e deixar alguem\Ndestruir a Terra, onde sonhos dançam!
+Dialogue: 0,0:50:43.46,0:50:48.63,legenda para abertura e encerramento,,0000,0000,0000,,Com uma explosiva paixão, Dragon Ball!
+Dialogue: 0,0:50:51.80,0:50:54.81,legenda para abertura e encerramento,,0000,0000,0000,,Quando eu dou um soco,
+Dialogue: 0,0:50:54.81,0:50:58.14,legenda para abertura e encerramento,,0000,0000,0000,,ele desaparece como fumaça.
+Dialogue: 0,0:50:58.14,0:51:04.08,legenda para abertura e encerramento,,0000,0000,0000,,Meu inimigo, dessa vez, está me derrotando.
+Dialogue: 0,0:51:04.08,0:51:07.09,legenda para abertura e encerramento,,0000,0000,0000,,(Siga!) Não abaixe sua guarda!
+Dialogue: 0,0:51:07.09,0:51:10.09,legenda para abertura e encerramento,,0000,0000,0000,,(Pule!) Gohan e Videl!
+Dialogue: 0,0:51:10.09,0:51:13.43,legenda para abertura e encerramento,,0000,0000,0000,,(Siga!) Mesmo que seus amigos...
+Dialogue: 0,0:51:13.43,0:51:16.43,legenda para abertura e encerramento,,0000,0000,0000,,(Chute!)...sejam derrotados,
+Dialogue: 0,0:51:16.43,0:51:24.77,legenda para abertura e encerramento,,0000,0000,0000,,no final, se eu não fizer isso, quem fará?!
+Dialogue: 0,0:51:24.77,0:51:27.44,legenda para abertura e encerramento,,0000,0000,0000,,Eu não mentiria pra você!
+Dialogue: 0,0:51:27.44,0:51:31.11,legenda para abertura e encerramento,,0000,0000,0000,,Estou cansado de brincar!
+Dialogue: 0,0:51:31.11,0:51:33.78,legenda para abertura e encerramento,,0000,0000,0000,,Vou te mostrar
+Dialogue: 0,0:51:33.78,0:51:37.78,legenda para abertura e encerramento,,0000,0000,0000,,meu poder de Super Saiya-jin!
+Dialogue: 0,0:51:37.78,0:51:43.28,legenda para abertura e encerramento,,0000,0000,0000,,Com uma luta dura e\Ndevastadora, Dragon Ball!
